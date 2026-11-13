@@ -1,0 +1,27 @@
+Test_Case_ID,Module,Test_Category,Test_Objective,Test_Input,Expected_Output,Actual_Output,Status
+TC_BB_001,Demographics,Equivalence Partitioning,Verify valid age range filtering for target young adult cohort,Age slider set to 18-26,All returned records have 18 <= Age <= 26,100% of records in range 18-26,PASS
+TC_BB_002,Dietary,Equivalence Partitioning,Verify Fast Food Tier segmentation (Minimal/Moderate/High/Critical),Filter Fast Food = Critical (6-7 days/wk),Only records with Fast Food >= 6 days displayed,All displayed rows have Fast Food >= 6,PASS
+TC_BB_003,Circadian,Equivalence Partitioning,Verify Sleep Adequacy classification for severe deficit,Filter Sleep < 6.0h,Category displays 'Severe Sleep Deficit (<6h)',Accurate labeling and grouping confirmed,PASS
+TC_BB_004,Health Score,Equivalence Partitioning,Verify High Risk health category classification,Filter Health Score < 50.0,Cohort labeled as 'High Risk (Vulnerable Pattern)',Accurate metric counter and table update,PASS
+TC_BB_005,Screen Time,Equivalence Partitioning,Verify Screen Exposure tier classification,Filter Screen Time > 8.0h,Category displays 'Excessive (>8h)',Categorical mapping correctly applied,PASS
+TC_BB_006,Calculator,Boundary Value Analysis,Test minimum allowable sleep duration in simulator,Sleep slider set to 3.0h (Min Floor),Score penalized appropriately without application crash,Calculates valid score >= 5.0,PASS
+TC_BB_007,Calculator,Boundary Value Analysis,Test upper boundary sleep duration in simulator,Sleep slider set to 11.0h (Max Ceiling),Calculates valid score <= 100.0 without overflow,Calculates valid score within range,PASS
+TC_BB_008,Calculator,Boundary Value Analysis,Test zero fast food intake boundary condition,Fast Food days = 0 (Lower limit),No fast food penalty deducted from score,Zero penalty cleanly applied,PASS
+TC_BB_009,Calculator,Boundary Value Analysis,Test maximum fast food intake boundary condition,Fast Food days = 7 (Upper limit),Full 24.5 penalty points deducted from base,Full penalty cleanly applied,PASS
+TC_BB_010,Hydration,Boundary Value Analysis,Test minimum water intake boundary condition,Water intake = 0.5 Liters,Minimum hydration points calculated cleanly,Score calculated within valid bounds,PASS
+TC_BB_011,Filtering,Functional / Multi-select,Filter dataset by Undergraduate Student occupation,Select Occupation = 'Undergraduate Student',Table and charts filter exclusively to UG students,100% UG records displayed,PASS
+TC_BB_012,Filtering,Functional / Multi-select,Filter dataset by Hostel / Dormitory living condition,Select Living = 'Hostel / Dormitory',Visualizations update to show hostel metrics,Hostel cohort isolated accurately,PASS
+TC_BB_013,Filtering,Functional / Multi-select,Combined multi-dimensional filter test,UG + Hostel + Age 18-21,Dataset correctly filters to intersection of all criteria,Intersection filtered with accurate KPI count,PASS
+TC_BB_014,Filtering,Robustness / Error Handling,Apply mutually exclusive filter with zero matches,Filter combination yielding 0 rows,UI displays clean empty state without unhandled exception,Displays 0 records cleanly without crash,PASS
+TC_BB_015,Filtering,Functional / Reset,Restore full cohort selection across all filters,Select all default filter options,Record count restores to full N=850,Full 850 records restored,PASS
+TC_BB_016,Simulator,Decision Table / Use Case,Test ideal healthy lifestyle profile,Sleep=8h Screen=3h FF=0 Cook=7 Ex=10h Water=3L Stress=2,Score >= 85 (Low Risk / Healthy),Score = 93.5 (Low Risk),PASS
+TC_BB_017,Simulator,Decision Table / Use Case,Test extreme high-strain student lifestyle profile,Sleep=4.5h Screen=12h FF=6 Cook=0 Ex=0h Water=1L Stress=9,Score < 30 (High Risk / Vulnerable),Score = 14.5 (High Risk),PASS
+TC_BB_018,Simulator,Sensitivity Testing,Evaluate isolated effect of breakfast skipping on score,Toggle Breakfast from Regular to Skipper,-10 point penalty accurately applied to composite score,Exact -10 deduction observed,PASS
+TC_BB_019,Data Explorer,Search / Query,Search respondents by exact ID prefix 'YA00',Input query 'YA00',Table dynamically filters to matching IDs,Only YA00xx IDs displayed,PASS
+TC_BB_020,Data Explorer,Search / Query,Search respondents by occupation keyword 'Working',Input query 'Working',Table filters to 'Working Professional' rows,Filtered to working professionals,PASS
+TC_BB_021,Data Explorer,Robustness / Non-existent,Search by non-existent respondent ID 'YA9999',Input query 'YA9999',Table displays zero rows gracefully,Empty dataframe rendered cleanly,PASS
+TC_BB_022,Export Engine,Data Integrity,Download cleaned CSV dataset,Click 'Download Filtered CSV',Generated CSV contains all 27 standard columns,RFC 4180 CSV with matching header and row count,PASS
+TC_BB_023,Export Engine,Completeness,Verify exported CSV record count matches filtered state,Filter cohort to 250 rows and download,Exported file has exactly 251 lines (header + 250 rows),Exact row count match verified,PASS
+TC_BB_024,Presentation,File Verification,Verify PPTX presentation deck creation,Inspect generated PPTX file,File exists with 12 slides and >2MB size,12-slide PPTX generated successfully,PASS
+TC_BB_025,Visuals,Rendering / UI,Verify generation of 7 static publication figures,Inspect figures/ directory,7 PNG files exist with resolution 300 DPI,All 7 PNG charts verified on disk,PASS
+

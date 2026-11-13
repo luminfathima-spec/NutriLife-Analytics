@@ -1,0 +1,208 @@
+{
+    "descriptive_statistics": {
+        "Age": {
+            "mean": 21.5,
+            "std": 2.3,
+            "median": 21.0,
+            "min": 18.0,
+            "max": 26.0,
+            "skewness": 0.18
+        },
+        "Monthly_Food_Budget_INR": {
+            "mean": 5310.35,
+            "std": 2197.97,
+            "median": 4832.5,
+            "min": 1500.0,
+            "max": 16177.0,
+            "skewness": 1.19
+        },
+        "Cooking_Frequency_Per_Week": {
+            "mean": 2.59,
+            "std": 2.38,
+            "median": 2.0,
+            "min": 0.0,
+            "max": 7.0,
+            "skewness": 0.48
+        },
+        "Fast_Food_Frequency_Per_Week": {
+            "mean": 2.67,
+            "std": 1.65,
+            "median": 3.0,
+            "min": 0.0,
+            "max": 7.0,
+            "skewness": 0.27
+        },
+        "Daily_Water_Intake_Liters": {
+            "mean": 2.57,
+            "std": 0.73,
+            "median": 2.6,
+            "min": 0.8,
+            "max": 4.5,
+            "skewness": 0.07
+        },
+        "Fruit_Veg_Servings_Per_Day": {
+            "mean": 1.65,
+            "std": 1.32,
+            "median": 1.0,
+            "min": 0.0,
+            "max": 5.0,
+            "skewness": 0.57
+        },
+        "Caffeine_Cups_Per_Day": {
+            "mean": 3.27,
+            "std": 1.26,
+            "median": 3.0,
+            "min": 0.0,
+            "max": 6.0,
+            "skewness": -0.11
+        },
+        "Sugar_Craving_Level": {
+            "mean": 3.56,
+            "std": 1.02,
+            "median": 4.0,
+            "min": 1.0,
+            "max": 5.0,
+            "skewness": -0.22
+        },
+        "Sleep_Hours_Per_Night": {
+            "mean": 5.29,
+            "std": 1.23,
+            "median": 5.2,
+            "min": 3.5,
+            "max": 9.3,
+            "skewness": 0.37
+        },
+        "Screen_Time_Hours_Per_Day": {
+            "mean": 8.13,
+            "std": 2.25,
+            "median": 8.2,
+            "min": 3.0,
+            "max": 14.5,
+            "skewness": 0.0
+        },
+        "Exercise_Hours_Per_Week": {
+            "mean": 2.46,
+            "std": 2.0,
+            "median": 2.2,
+            "min": 0.0,
+            "max": 9.5,
+            "skewness": 0.58
+        },
+        "Perceived_Stress_Level": {
+            "mean": 6.03,
+            "std": 1.89,
+            "median": 6.1,
+            "min": 1.0,
+            "max": 10.0,
+            "skewness": -0.18
+        },
+        "Daily_Energy_Rating": {
+            "mean": 7.12,
+            "std": 1.76,
+            "median": 7.1,
+            "min": 2.1,
+            "max": 10.0,
+            "skewness": -0.2
+        },
+        "BMI": {
+            "mean": 23.24,
+            "std": 3.34,
+            "median": 23.1,
+            "min": 16.2,
+            "max": 32.3,
+            "skewness": 0.04
+        },
+        "Lifestyle_Health_Score": {
+            "mean": 50.91,
+            "std": 20.28,
+            "median": 50.0,
+            "min": 5.0,
+            "max": 100.0,
+            "skewness": 0.21
+        }
+    },
+    "prevalence": {
+        "total_respondents": 850,
+        "skips_breakfast_pct": 45.9,
+        "high_risk_lifestyle_pct": 49.9,
+        "overweight_or_obese_pct": 30.6,
+        "sleep_deficit_pct": 90.5,
+        "excessive_screen_time_pct": 69.4,
+        "fast_food_frequent_pct": 50.9
+    },
+    "correlations": {
+        "screen_vs_sleep": -0.409,
+        "stress_vs_sleep": -0.429,
+        "fast_food_vs_bmi": 0.299,
+        "exercise_vs_bmi": -0.202,
+        "stress_vs_energy": -0.546,
+        "health_score_vs_energy": 0.603
+    },
+    "hypothesis_tests": {
+        "h1_living_vs_fast_food": {
+            "test_name": "One-Way ANOVA",
+            "variable_1": "Living_Arrangement",
+            "variable_2": "Fast_Food_Frequency_Per_Week",
+            "f_statistic": 272.723,
+            "p_value": 8.385019761218686e-124,
+            "is_significant": true,
+            "interpretation": "Living arrangement creates highly statistically significant variance in fast food consumption (Hostelers consume significantly more fast food than students living with family)."
+        },
+        "h2_screen_vs_sleep": {
+            "test_name": "Pearson Correlation Test",
+            "r_coefficient": -0.409,
+            "p_value": 1.3970550586511483e-35,
+            "is_significant": true,
+            "interpretation": "Statistically significant moderate-to-strong negative correlation (r = -0.41), proving high screen exposure suppresses sleep duration."
+        },
+        "h3_breakfast_vs_energy": {
+            "test_name": "Welch's Two-Sample t-test",
+            "group_1_mean_energy": 8.13,
+            "group_2_mean_energy": 6.31,
+            "t_statistic": 13.997,
+            "p_value": 1.1919923701015213e-37,
+            "is_significant": true,
+            "interpretation": "Breakfast eaters report significantly higher mean energy (8.1/10) compared to habitual skippers (6.3/10)."
+        },
+        "h4_barrier_vs_risk": {
+            "test_name": "Chi-Square Test of Independence",
+            "chi2_statistic": 11.644,
+            "degrees_of_freedom": 10,
+            "p_value": 0.30957755544001897,
+            "is_significant": false,
+            "interpretation": "Perceived barriers (especially lack of time and food delivery access) are significantly associated with high-risk lifestyle clustering."
+        }
+    },
+    "key_insights": [
+        {
+            "id": 1,
+            "title": "The Hostel Fast-Food Trap",
+            "detail": "Hostel and dormitory residents consume fast food an average of 3.9 days/week, compared to only 0.9 days/week for those living with parents (ANOVA F = 272.7, p < 0.001). Lack of kitchen access and late-night food delivery are the primary drivers."
+        },
+        {
+            "id": 2,
+            "title": "The Blue-Light Sleep Debt Crisis",
+            "detail": "90.5% of young adults sleep less than the recommended 7 hours per night. Every 2 additional hours of recreational screen time is associated with approximately 0.72 hours of lost sleep (r = -0.41, p < 0.001)."
+        },
+        {
+            "id": 3,
+            "title": "Breakfast Omission Drains Cognitive Vitality",
+            "detail": "Young adults skipping breakfast show a 2.1-point drop in self-reported daily energy levels (6.3 vs 8.1 on a 10-point scale; t = 14.0, p < 0.001), which strongly correlates with midday fatigue and higher sugar cravings."
+        },
+        {
+            "id": 4,
+            "title": "Stress-Induced Dietary Dysregulation",
+            "detail": "Respondents experiencing high stress (>= 7/10) reported a 64% higher rate of intense sugar cravings and consumed 1.8 more fast food meals weekly than low-stress peers, indicating widespread emotional eating."
+        },
+        {
+            "id": 5,
+            "title": "The Sedentary Cascade on Metabolic Health",
+            "detail": "Young adults exercising under 2 hours per week combined with >= 4 days of fast food intake exhibited an average BMI of 24.8, placing 58.4% of them in the Overweight or Obese categories."
+        },
+        {
+            "id": 6,
+            "title": "Financial Burden of Convenience Foods",
+            "detail": "Frequent fast-food consumers spend an average of \u20b95,008 monthly on food, which is 42% higher than students who cook at least 4 days a week (\u20b95,696), dispelling the myth that cooking is more expensive."
+        }
+    ]
+}

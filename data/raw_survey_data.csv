@@ -1,0 +1,865 @@
+Respondent_ID,Age,Gender,Occupation_Status,Living_Arrangement,Monthly_Food_Budget_INR,Cooking_Frequency_Per_Week,Fast_Food_Frequency_Per_Week,Skips_Breakfast,Daily_Water_Intake_Liters,Fruit_Veg_Servings_Per_Day,Caffeine_Cups_Per_Day,Sugar_Craving_Level,Sleep_Hours_Per_Night,Screen_Time_Hours_Per_Day,Exercise_Hours_Per_Week,Perceived_Stress_Level,Daily_Energy_Rating,BMI,Primary_Barrier_To_Healthy_Eating
+YA0001,21,Male,Undergraduate Student,With Parents / Family,4423.0,5,1,Occasionally,2.2,2,3.0,3,4.4,4.2,3.0,3.0,7.7,22.8,Budget Constraints
+YA0002,23,Female,Freelancer / Job Seeker,With Parents / Family,,6,0,Yes,3.7,5,2.0,2,6.8,8.2,5.6,2.7,10.0,25.2,Food Delivery Apps Accessibility
+YA0003,26,Male,Working Professional,Shared Apartment,8917.0,4,1,No,2.8,0,3.0,3,5.7,7.5,4.2,3.6,9.3,16.2,Budget Constraints
+YA0004,23,Female,Postgraduate Student,Living Independently,4779.0,1,1,Occasionally,1.7,0,3.0,5,5.9,9.6,0.0,6.6,8.6,28.0,Lack of Time / Academic Load
+YA0005,19,Male,Undergraduate Student,Hostel / Dormitory,5120.0,0,5,Occasionally,2.1,1,4.0,5,3.5,11.1,2.7,6.9,6.4,19.6,Lack of Time / Academic Load
+YA0006,21,Male,Undergraduate Student,Hostel / Dormitory,4205.0,0,4,No,1.8,1,5.0,4,5.3,10.7,0.0,8.1,6.5,27.4,Lack of Time / Academic Load
+YA0007,19,Male,Undergraduate Student,Hostel / Dormitory,2208.0,1,5,No,2.0,1,4.0,5,5.0,7.0,0.0,9.1,6.4,18.8,Lack of Time / Academic Load
+YA0008,26,Male,Working Professional,With Parents / Family,7810.0,6,1,Occasionally,3.4,3,1.0,3,5.5,8.5,3.3,5.5,8.9,24.7,Irregular Work / Study Hours
+YA0009,24,Female,Postgraduate Student,With Parents / Family,3438.0,5,0,Yes,2.3,2,6.0,3,5.4,6.6,0.0,10.0,5.0,21.6,Budget Constraints
+YA0010,26,Male,Working Professional,Shared Apartment,8507.0,2,2,No,3.9,0,4.0,1,6.2,6.8,6.9,6.6,10.0,22.0,Lack of Cooking Skills / Equipment
+YA0011,20,Female,Undergraduate Student,With Parents / Family,3282.0,5,1,Occasionally,2.4,3,1.0,3,6.1,5.4,0.9,5.5,9.2,28.9,Lack of Cooking Skills / Equipment
+YA0012,25,Male,Freelancer / Job Seeker,Shared Apartment,4124.0,2,4,Yes,3.1,2,4.0,4,5.1,8.3,4.8,7.7,5.5,27.3,Irregular Work / Study Hours
+YA0013,23,Female,Working Professional,Living Independently,5264.0,1,2,Occasionally,1.1,0,3.0,2,6.4,3.5,0.9,7.3,6.5,22.3,Lack of Cooking Skills / Equipment
+YA0014,21,Male,Undergraduate Student,With Parents / Family,5947.0,6,0,Occasionally,2.4,2,5.0,4,4.5,12.5,0.0,6.6,8.1,24.8,Lack of Cooking Skills / Equipment
+YA0015,20,Male,Undergraduate Student,With Parents / Family,4573.0,5,2,Occasionally,3.0,3,3.0,3,5.2,8.5,4.4,2.9,10.0,28.1,Lack of Time / Academic Load
+YA0016,20,Female,Undergraduate Student,Hostel / Dormitory,4916.0,0,6,Yes,1.8,2,4.0,5,4.5,9.3,1.5,3.9,4.7,28.9,Lack of Time / Academic Load
+YA0017,20,Male,Undergraduate Student,Living Independently,4898.0,2,3,Yes,,2,4.0,3,5.7,8.8,0.6,5.3,5.9,24.8,Lack of Time / Academic Load
+YA0018,23,Male,Postgraduate Student,Shared Apartment,5376.0,4,4,Yes,3.1,0,4.0,4,3.5,9.1,4.3,5.8,5.1,27.7,Lack of Cooking Skills / Equipment
+YA0019,18,Female,Undergraduate Student,Hostel / Dormitory,6624.0,0,3,No,2.8,2,4.0,4,6.4,6.3,1.2,5.9,8.6,26.6,Budget Constraints
+YA0020,20, Female ,Undergraduate Student,With Parents / Family,5262.0,5,1,Occasionally,3.0,3,4.0,4,4.3,8.6,6.1,5.3,8.7,19.2,Budget Constraints
+YA0021,22,Male,Postgraduate Student,Hostel / Dormitory,7748.0,0,3,Yes,3.5,0,6.0,3,5.8,8.5,3.5,8.4,6.6,25.9,Lack of Time / Academic Load
+YA0022,19,Male,Undergraduate Student,With Parents / Family,6088.0,6,1,Yes,1.6,5,4.0,5,4.5,11.9,3.3,7.8,6.1,20.6,Lack of Time / Academic Load
+YA0023,18,Female,Undergraduate Student,Hostel / Dormitory,5184.0,1,6,Yes,2.2,2,4.0,5,4.5,7.2,3.9,6.0,6.3,25.0,Food Delivery Apps Accessibility
+YA0024,19,Male,Undergraduate Student,Shared Apartment,3910.0,1,2,Yes,1.3,0,3.0,3,5.6,8.6,1.3,4.3,7.8,22.9,Lack of Time / Academic Load
+YA0025,22,Male,Postgraduate Student,Shared Apartment,4990.0,1,2,Occasionally,1.9,2,1.0,2,7.0,5.7,0.0,5.4,8.3,27.4,Lack of Time / Academic Load
+YA0026,24,Male,Working Professional,Hostel / Dormitory,12111.0,0,3,Occasionally,2.4,1,3.0,4,4.1,6.0,2.0,7.7,7.1,27.5,Irregular Work / Study Hours
+YA0027,19,Female,Undergraduate Student,Hostel / Dormitory,5465.0,0,5,Yes,3.2,1,4.0,5,3.5,10.8,1.0,7.7,2.1,24.1,Lack of Cooking Skills / Equipment
+YA0028,21,Female,Postgraduate Student,Hostel / Dormitory,4445.0,0,4,Yes,1.4,0,5.0,5,4.1,12.7,0.0,9.5,5.1,23.5,Irregular Work / Study Hours
+YA0029,23,Male,Postgraduate Student,Hostel / Dormitory,5954.0,1,5,Yes,1.5,0,4.0,4,5.0,8.1,0.0,7.1,5.5,26.6,Budget Constraints
+YA0030,21,Male,Undergraduate Student,Hostel / Dormitory,3953.0,0,3,No,2.8,1,2.0,4,6.3,5.3,2.5,5.7,7.0,22.9,Budget Constraints
+YA0031,23,Male,Postgraduate Student,Shared Apartment,7615.0,3,5,Yes,1.8,0,4.0,3,4.0,12.9,0.0,6.6,5.2,25.0,Lack of Time / Academic Load
+YA0032,18,Female,Undergraduate Student,Hostel / Dormitory,6418.0,1,3,Occasionally,2.5,0,,3,4.7,8.9,0.4,4.6,8.1,23.8,Lack of Time / Academic Load
+YA0033,20,Male,Undergraduate Student,Hostel / Dormitory,3653.0,2,4,Occasionally,3.0,1,2.0,5,4.3,11.1,2.5,5.4,8.2,21.5,Lack of Time / Academic Load
+YA0034,22,Male,Freelancer / Job Seeker,With Parents / Family,,6,0,Yes,2.2,5,3.0,4,4.2,10.1,1.8,6.8,2.8,22.3,Lack of Time / Academic Load
+YA0035,20,Female,Freelancer / Job Seeker,Hostel / Dormitory,4913.0,1,5,Yes,1.9,1,6.0,5,5.8,9.6,2.4,7.8,6.6,21.0,Lack of Time / Academic Load
+YA0036,24,Male,Working Professional,Living Independently,8733.0,3,2,No,3.0,1,0.0,4,7.2,3.0,1.7,4.3,8.4,26.5,Food Delivery Apps Accessibility
+YA0037,18,Female,Undergraduate Student,With Parents / Family,6697.0,5,1,Yes,3.6,2,5.0,4,4.4,11.9,3.0,8.4,6.6,16.6,Irregular Work / Study Hours
+YA0038,18,Male,Undergraduate Student,Shared Apartment,4720.0,3,2,No,2.8,1,2.0,4,4.8,8.6,1.9,5.9,7.6,16.2,Lack of Time / Academic Load
+YA0039,24,Male,Postgraduate Student,Shared Apartment,5829.0,4,2,No,2.6,0,2.0,3,7.5,3.0,,4.5,9.3,20.9,Budget Constraints
+YA0040,19,Male,Undergraduate Student,With Parents / Family,3444.0,4,1,Yes,3.3,4,2.0,2,8.3,7.7,4.4,2.9,10.0,16.2,Food Delivery Apps Accessibility
+YA0041,19,Female,Undergraduate Student,Hostel / Dormitory,3849.0,0,4,Yes,1.4,0,2.0,3,3.9,10.3,0.0,3.2,7.5,25.8,Lack of Time / Academic Load
+YA0042,23,Female,Postgraduate Student,Hostel / Dormitory,5397.0,0,4,Occasionally,2.7,2,4.0,5,4.4,11.1,4.9,7.6,5.4,17.2,Food Delivery Apps Accessibility
+YA0043,20,Female,Undergraduate Student,Hostel / Dormitory,4900.0,0,3,Yes,3.8,1,3.0,4,3.5,10.5,4.3,5.3,7.2,22.9,Lack of Cooking Skills / Equipment
+YA0044,25,Male,Working Professional,With Parents / Family,7453.0,5,0,Yes,1.4,2,4.0,5,4.9,10.1,0.0,8.9,5.3,19.7,Lack of Time / Academic Load
+YA0045,18,Female,Undergraduate Student,Hostel / Dormitory,4237.0,1,6,Yes,1.2,0,4.0,4,4.8,8.2,,3.8,7.4,23.5,Lack of Time / Academic Load
+YA0046,24,Male,Postgraduate Student,Shared Apartment,4203.0,2,3,Yes,3.1,2,3.0,3,5.4,9.9,0.8,7.1,4.8,23.6,Lack of Time / Academic Load
+YA0047,21,Male,Undergraduate Student,Living Independently,3996.0,2,3,Yes,3.2,2,4.0,3,3.5,5.6,1.0,6.2,3.9,21.9,Lack of Time / Academic Load
+YA0048,23,Female,Postgraduate Student,With Parents / Family,6562.0,7,0,Yes,1.3,4,4.0,4,5.4,7.2,0.1,9.3,7.1,21.0,Lack of Time / Academic Load
+YA0049,24,Male,Postgraduate Student,Shared Apartment,2564.0,4,2,Yes,2.2,1,4.0,4,6.8,8.9,6.0,5.0,8.8,19.9,Irregular Work / Study Hours
+YA0050,18,Male,Undergraduate Student,Hostel / Dormitory,6028.0,1,3,Occasionally,2.0,1,4.0,5,3.5,11.1,0.9,6.3,8.5,26.8,Budget Constraints
+YA0051,24,Male,Freelancer / Job Seeker,With Parents / Family,5700.0,6,1,Yes,3.5,2,4.0,3,3.9,6.5,4.0,6.7,6.6,24.5,Lack of Time / Academic Load
+YA0052,25,Male,Working Professional,With Parents / Family,8501.0,6,3,Yes,2.5,3,4.0,2,4.7,10.3,1.0,4.3,5.6,24.7,Lack of Time / Academic Load
+YA0053,23,Male,Freelancer / Job Seeker,Shared Apartment,,3,5,Occasionally,3.0,2,3.0,3,6.5,5.9,0.0,4.2,9.2,29.0,Food Delivery Apps Accessibility
+YA0054,26,Female,Working Professional,Hostel / Dormitory,10086.0,0,5,Occasionally,1.9,1,4.0,5,4.2,5.5,1.0,8.6,7.0,22.6,Lack of Time / Academic Load
+YA0055,24,Male,Postgraduate Student,With Parents / Family,4797.0,6,1,No,1.5,2,3.0,3,3.5,10.7,1.4,7.6,4.1,27.6,Food Delivery Apps Accessibility
+YA0056,23,Female,Freelancer / Job Seeker,With Parents / Family,5474.0,6,0,Yes,1.7,3,2.0,4,7.2,8.5,0.9,4.0,8.8,23.1,Lack of Cooking Skills / Equipment
+YA0057,21,Female,Undergraduate Student,With Parents / Family,4302.0,6,2,Yes,2.2,3,3.0,3,3.8,10.3,0.0,6.3,8.3,27.8,Lack of Time / Academic Load
+YA0058,19,Male,Undergraduate Student,With Parents / Family,2589.0,6,1,Occasionally,3.0,4,5.0,5,3.5,9.5,4.1,7.0,7.1,17.7,Lack of Cooking Skills / Equipment
+YA0059,20,Male,Undergraduate Student,Shared Apartment,3791.0,3,2,Occasionally,1.5,2,3.0,3,3.7,8.1,4.9,7.0,7.3,23.7,Lack of Time / Academic Load
+YA0060,19,Male,Undergraduate Student,Shared Apartment,4413.0,1,4,Yes,3.2,1,2.0,4,5.1,3.1,0.0,5.4,6.1,26.2,Lack of Time / Academic Load
+YA0061,20,Female,Undergraduate Student,Hostel / Dormitory,5432.0,0,5,Yes,2.3,1,3.0,5,3.5,12.9,0.0,8.3,3.4,29.6,Budget Constraints
+YA0062,18,Male,Undergraduate Student,Hostel / Dormitory,3715.0,0,4,Yes,3.3,0,4.0,5,4.5,9.6,2.1,6.8,6.3,26.0,Lack of Time / Academic Load
+YA0063,25,Female,Working Professional,Shared Apartment,7613.0,3,5,No,3.1,3,4.0,4,5.1,6.4,0.0,8.2,5.1,32.0,Budget Constraints
+YA0064,20,Male,Undergraduate Student,With Parents / Family,4456.0,4,2,Occasionally,1.0,4,4.0,4,5.0,7.6,0.0,5.2,8.0,27.7,Budget Constraints
+YA0065,19,Female,Undergraduate Student,Shared Apartment,4482.0,1,1,No,3.3,0,5.0,3,6.0,9.4,6.8,5.7,9.5,16.5,Lack of Time / Academic Load
+YA0066,24,Male,Postgraduate Student,With Parents / Family,5296.0,7,0,Yes,3.5,4,5.0,3,3.5,7.5,1.2,4.8,7.5,29.1,Lack of Time / Academic Load
+YA0067,18,Male,Undergraduate Student,Hostel / Dormitory,6324.0,0,7,No,3.3,0,1.0,3,3.5,8.8,2.9,5.3,6.3,17.9,Lack of Time / Academic Load
+YA0068,24,Female,Working Professional,With Parents / Family,8394.0,5,0,Yes,2.6,3,5.0,4,4.5,7.5,0.0,6.2,6.0,22.0,Lack of Time / Academic Load
+YA0069,20,Female,Undergraduate Student,Shared Apartment,4771.0,1,4,Yes,2.2,1,5.0,5,5.6,7.6,2.3,6.1,6.8,21.5,Lack of Time / Academic Load
+YA0070,22,Male,Freelancer / Job Seeker,With Parents / Family,2938.0,5,0,Occasionally,4.2,3,1.0,1,5.2,8.7,7.3,1.0,10.0,24.6,Lack of Time / Academic Load
+YA0071,25,Female,Working Professional,With Parents / Family,,6,0,No,3.1,4,5.0,4,4.8,11.2,0.1,10.0,6.0,21.1,Budget Constraints
+YA0072,19,Male,Undergraduate Student,Hostel / Dormitory,6745.0,0,4,Occasionally,2.3,0,0.0,4,7.2,7.3,1.4,2.5,5.8,25.7,Food Delivery Apps Accessibility
+YA0073,19,Female,Undergraduate Student,Shared Apartment,1998.0,5,3,Yes,1.8,0,2.0,4,6.7,10.1,1.3,7.1,8.6,18.4,Budget Constraints
+YA0074,26,Female,Working Professional,Shared Apartment,10699.0,4,1,No,2.9,2,4.0,3,4.9,3.9,0.0,6.0,8.8,29.2,Food Delivery Apps Accessibility
+YA0075,26,Male,Working Professional,Shared Apartment,10229.0,2,1,Occasionally,4.0,0,4.0,4,5.1,8.5,3.4,6.3,5.9,19.2,Lack of Time / Academic Load
+YA0076,26,Male,Working Professional,Shared Apartment,5286.0,5,2,Yes,3.6,1,5.0,4,5.9,8.8,4.4,7.5,4.7,19.7,Food Delivery Apps Accessibility
+YA0077,23,Male,Working Professional,With Parents / Family,8423.0,7,1,No,1.4,2,1.0,2,6.5,3.7,1.2,5.7,7.4,19.6,Food Delivery Apps Accessibility
+YA0078,19,Female,Undergraduate Student,Living Independently,4235.0,3,5,No,2.8,1,1.0,3,5.0,10.2,3.9,4.3,7.5,27.5,Food Delivery Apps Accessibility
+YA0079,20,Female,Undergraduate Student,Shared Apartment,6368.0,1,3,Occasionally,1.7,2,3.0,3,6.4,9.0,1.8,5.1,9.2,22.2,Lack of Time / Academic Load
+YA0080,18,Male,Undergraduate Student, Shared Apartment ,4930.0,4,4,No,4.2,1,4.0,4,4.7,8.9,8.1,3.6,8.4,21.5,Food Delivery Apps Accessibility
+YA0081,26,Male,Working Professional,With Parents / Family,8587.0,7,0,Occasionally,1.6,2,3.0,3,4.6,6.9,0.7,5.7,6.1,17.7,Lack of Time / Academic Load
+YA0082,22,Female,Postgraduate Student,Shared Apartment,7758.0,3,2,Yes,1.8,2,4.0,3,4.3,11.6,0.2,6.9,5.3,18.5,Lack of Cooking Skills / Equipment
+YA0083,20,Non-binary / Other,Undergraduate Student,Hostel / Dormitory,3854.0,0,3,Yes,2.3,0,4.0,4,4.8,7.1,3.5,7.3,7.0,22.8,Lack of Time / Academic Load
+YA0084,19,Female,Undergraduate Student,Hostel / Dormitory,6005.0,1,3,No,2.6,2,4.0,3,6.4,5.3,2.1,3.5,9.5,23.2,None (Satisfied with Diet)
+YA0085,21,Male,Undergraduate Student,Hostel / Dormitory,3252.0,0,2,No,2.8,1,2.0,2,6.2,5.7,1.2,6.4,6.6,23.7,Lack of Time / Academic Load
+YA0086,20,Male,Undergraduate Student,Hostel / Dormitory,4546.0,2,2,Yes,1.7,0,3.0,3,3.9,9.7,1.5,7.3,6.0,20.7,Lack of Time / Academic Load
+YA0087,26,Male,Working Professional,Hostel / Dormitory,5282.0,1,2,Yes,2.5,0,4.0,3,3.8,10.6,2.6,7.6,3.0,26.1,Lack of Time / Academic Load
+YA0088,21,Female,Postgraduate Student,Hostel / Dormitory,5027.0,0,2,Yes,2.2,0,4.0,3,4.5,6.2,2.4,7.0,4.7,21.7,Irregular Work / Study Hours
+YA0089,26,Male,Working Professional,Shared Apartment,7338.0,1,5,Occasionally,2.8,2,5.0,5,3.5,6.9,2.8,9.0,3.6,28.4,Budget Constraints
+YA0090,21,Female,Postgraduate Student,Living Independently,3194.0,2,3,No,1.6,2,5.0,3,3.5,10.0,0.0,8.0,6.8,23.1,Lack of Time / Academic Load
+YA0091,19,Male,Undergraduate Student,Hostel / Dormitory,3941.0,0,3,Yes,2.1,2,4.0,4,4.8,6.3,1.6,8.4,4.4,22.7,Irregular Work / Study Hours
+YA0092,23,Female,Working Professional,Shared Apartment,11122.0,3,1,Yes,2.7,1,5.0,3,5.3,6.4,4.2,8.1,6.9,24.6,Lack of Time / Academic Load
+YA0093,26,female,Working Professional,Shared Apartment,9782.0,5,2,Yes,2.7,1,4.0,4,3.5,6.3,0.1,7.9,2.7,21.6,Irregular Work / Study Hours
+YA0094,21,Female,Postgraduate Student,Shared Apartment,5883.0,1,2,No,3.8,1,4.0,3,4.3,11.1,3.8,7.3,9.6,23.5,Lack of Time / Academic Load
+YA0095,26,Male,Working Professional,Shared Apartment,5888.0,4,3,No,2.0,0,1.0,3,5.4,6.3,,4.2,9.6,24.8,Lack of Time / Academic Load
+YA0096,22,Male,Postgraduate Student,Hostel / Dormitory,1854.0,0,6,Yes,2.9,1,4.0,5,5.3,12.0,0.0,9.0,5.3,24.9,Food Delivery Apps Accessibility
+YA0097,21,Male,Postgraduate Student,Shared Apartment,6432.0,3,1,Yes,3.0,1,3.0,4,5.1,8.6,5.7,6.0,7.5,22.9,Lack of Cooking Skills / Equipment
+YA0098,18,Female,Undergraduate Student,Hostel / Dormitory,4349.0,0,4,No,,1,2.0,4,5.8,7.5,1.7,3.1,9.2,20.1,Lack of Cooking Skills / Equipment
+YA0099,21,Female,Undergraduate Student,Hostel / Dormitory,2157.0,1,3,Yes,3.9,1,3.0,3,3.5,13.1,2.9,5.4,5.9,25.6,Irregular Work / Study Hours
+YA0100,21,Female,Undergraduate Student,Hostel / Dormitory,4653.0,0,4,Occasionally,1.9,3,4.0,5,5.7,6.9,1.5,7.8,4.5,23.9,Budget Constraints
+YA0101,18,Female,Undergraduate Student,Hostel / Dormitory,2303.0,0,2,Yes,2.4,2,1.0,2,6.3,6.8,1.5,4.0,7.0,22.6,Budget Constraints
+YA0102,23,Female,Postgraduate Student,Hostel / Dormitory,4890.0,0,4,No,3.8,0,2.0,5,6.8,7.1,3.5,5.7,7.8,23.1,Food Delivery Apps Accessibility
+YA0103,18,Male,Undergraduate Student,Hostel / Dormitory,4434.0,0,2,Occasionally,4.5,0,0.0,3,7.0,8.3,9.5,2.9,10.0,16.5,Budget Constraints
+YA0104,24,Female,Postgraduate Student,With Parents / Family,4213.0,6,0,Occasionally,3.0,3,5.0,4,3.8,9.3,1.8,8.4,6.5,17.2,Budget Constraints
+YA0105,24,Male,Working Professional,With Parents / Family,6610.0,7,1,No,3.3,4,3.0,3,5.7,3.0,2.0,4.9,9.8,21.5,Irregular Work / Study Hours
+YA0106,20,Male,Undergraduate Student,Shared Apartment,3450.0,3,4,Occasionally,2.6,2,3.0,4,4.7,8.6,0.0,5.6,5.3,22.0,None (Satisfied with Diet)
+YA0107,18,Female,Undergraduate Student,Hostel / Dormitory,3815.0,1,3,No,3.3,0,4.0,3,4.4,8.4,0.0,8.0,6.3,20.5,Lack of Time / Academic Load
+YA0108,25,Male,Working Professional,Living Independently,11298.0,3,2,No,2.3,0,0.0,4,6.4,5.2,0.0,6.3,7.6,22.9,None (Satisfied with Diet)
+YA0109,21,Male,Undergraduate Student, Hostel / Dormitory ,3939.0,0,4,Yes,2.1,1,4.0,5,5.1,9.9,2.9,7.2,5.3,25.6,Budget Constraints
+YA0110,20,Female,Undergraduate Student,Hostel / Dormitory,3041.0,0,2,Yes,2.8,0,5.0,3,4.8,8.5,4.4,5.3,7.8,21.7,None (Satisfied with Diet)
+YA0111,18,Male,Undergraduate Student,Shared Apartment,4124.0,2,1,Yes,2.2,1,3.0,3,4.1,9.8,0.6,8.9,5.5,24.4,Budget Constraints
+YA0112,19,Female,Undergraduate Student,Hostel / Dormitory,2892.0,1,7,No,1.1,3,1.0,4,7.9,7.8,0.2,1.4,7.9,22.9,Lack of Time / Academic Load
+YA0113,25,Male,Freelancer / Job Seeker, Shared Apartment ,4716.0,3,2,Yes,2.0,3,3.0,3,5.0,5.2,0.0,6.4,6.2,26.4,Lack of Time / Academic Load
+YA0114,25,Male,Working Professional, With Parents / Family ,11093.0,7,3,No,3.7,3,5.0,3,7.3,6.5,1.4,6.1,9.1,18.8,Lack of Cooking Skills / Equipment
+YA0115,22,Male,Postgraduate Student,With Parents / Family,,6,0,Yes,2.5,4,5.0,2,3.9,9.7,2.5,7.0,7.2,20.0,Lack of Time / Academic Load
+YA0116,25,Male,Working Professional,Shared Apartment,6547.0,1,3,Occasionally,3.9,1,2.0,2,7.9,7.7,,1.5,9.9,25.2,Lack of Time / Academic Load
+YA0117,25,Female,Working Professional,With Parents / Family,4113.0,6,1,Yes,2.2,3,4.0,4,3.5,7.4,0.6,8.3,4.5,20.1,Lack of Time / Academic Load
+YA0118,19,Male,Undergraduate Student,Living Independently,3684.0,3,1,No,3.0,2,2.0,3,6.7,8.6,4.9,4.9,9.6,16.2,Lack of Time / Academic Load
+YA0119,24,Female,Working Professional,Shared Apartment,4985.0,2,2,Yes,3.7,0,3.0,2,4.8,4.3,2.7,6.2,7.5,20.8,Lack of Time / Academic Load
+YA0120,21,Male,Postgraduate Student,Hostel / Dormitory,6264.0,0,2,No,2.2,1,3.0,5,6.0,10.3,0.0,9.2,6.2,26.4,Lack of Time / Academic Load
+YA0121,26,Female,Working Professional,Shared Apartment,13512.0,2,2,Yes,3.6,1,4.0,4,5.7,5.7,5.3,8.3,6.6,16.2,Lack of Time / Academic Load
+YA0122,25, Female ,Working Professional,Shared Apartment,10661.0,4,4,Occasionally,2.9,2,3.0,5,5.0,3.2,3.1,6.3,4.1,29.4,Lack of Time / Academic Load
+YA0123,18,Female,Undergraduate Student,Hostel / Dormitory,4633.0,1,3,Yes,0.8,0,4.0,4,6.2,6.0,0.9,5.6,8.0,25.0,Lack of Time / Academic Load
+YA0124,19,Male,Undergraduate Student,With Parents / Family,3043.0,7,1,Yes,2.3,4,4.0,2,6.0,6.7,4.3,3.9,9.5,24.7,Food Delivery Apps Accessibility
+YA0125,19,Male,Undergraduate Student,Shared Apartment,1500.0,1,2,Occasionally,2.6,0,6.0,3,3.8,11.9,4.1,7.1,7.8,23.3,Lack of Time / Academic Load
+YA0126,18,Male,Undergraduate Student,Shared Apartment,1523.0,2,2,Yes,2.7,1,2.0,2,7.9,3.3,4.8,5.1,7.8,21.9,Food Delivery Apps Accessibility
+YA0127,23,Female,Working Professional,Shared Apartment,11793.0,1,4,Yes,3.1,0,2.0,5,5.9,4.8,3.7,7.0,5.7,21.8,Lack of Time / Academic Load
+YA0128,26,Male,Working Professional,With Parents / Family,11577.0,7,0,Yes,1.3,2,5.0,4,4.4,8.6,0.8,7.7,6.6,27.3,Food Delivery Apps Accessibility
+YA0129,18,Male,Undergraduate Student,Living Independently,4817.0,5,3,No,4.0,2,3.0,3,6.8,4.9,3.9,4.0,10.0,21.0,Budget Constraints
+YA0130,21,Female,Postgraduate Student,With Parents / Family,3859.0,7,0,Yes,2.2,5,5.0,3,5.2,9.0,0.0,3.8,6.9,20.5,Lack of Cooking Skills / Equipment
+YA0131,21,MALE,Undergraduate Student,Hostel / Dormitory,4519.0,0,3,Occasionally,2.5,0,3.0,3,4.1,10.0,0.0,4.3,7.0,26.7,Lack of Cooking Skills / Equipment
+YA0132,18,Female,Undergraduate Student,Shared Apartment,5489.0,4,1,Yes,1.6,0,4.0,2,5.5,5.3,0.9,4.4,9.8,24.2,Lack of Cooking Skills / Equipment
+YA0133,21,Male,Undergraduate Student,Hostel / Dormitory,3435.0,1,7,Yes,3.7,3,4.0,4,5.8,8.6,5.2,3.4,6.8,25.6,Food Delivery Apps Accessibility
+YA0134,18,Male,Undergraduate Student,Hostel / Dormitory,3041.0,0,2,Yes,3.0,2,4.0,3,5.3,11.8,4.4,3.7,7.6,21.8,Budget Constraints
+YA0135,20,Female,Freelancer / Job Seeker,Hostel / Dormitory,3188.0,0,2,Occasionally,2.7,3,2.0,2,7.6,7.8,0.0,4.4,8.6,23.6,Irregular Work / Study Hours
+YA0136,18,Male,Undergraduate Student, Shared Apartment ,4325.0,1,2,Occasionally,1.8,1,3.0,3,5.1,9.6,0.9,5.0,7.2,19.6,None (Satisfied with Diet)
+YA0137,22,Female,Postgraduate Student,Shared Apartment,2160.0,3,3,Yes,3.7,0,3.0,4,4.6,8.4,3.9,7.6,6.2,23.1,Lack of Cooking Skills / Equipment
+YA0138,25,Male,Working Professional,Shared Apartment,4056.0,2,1,Yes,2.4,2,3.0,4,6.2,8.5,4.7,8.8,6.2,25.7,Lack of Time / Academic Load
+YA0139,21,Male,Undergraduate Student,Hostel / Dormitory,3320.0,0,4,Occasionally,3.0,1,3.0,4,5.5,7.3,2.4,5.3,8.0,27.5,Lack of Time / Academic Load
+YA0140,24,Female,Freelancer / Job Seeker,Shared Apartment,3731.0,3,2,Occasionally,1.2,1,1.0,5,3.5,8.2,2.3,6.2,10.0,22.6,Lack of Time / Academic Load
+YA0141,20,Female,Freelancer / Job Seeker,Shared Apartment,3860.0,3,3,Yes,2.3,1,3.0,4,5.4,6.2,3.8,6.2,6.2,21.1,Budget Constraints
+YA0142,19,Female,Undergraduate Student,Hostel / Dormitory,5527.0,0,7,Yes,1.4,2,4.0,5,5.2,11.4,0.0,5.0,5.6,29.7,Lack of Time / Academic Load
+YA0143,22,Male,Postgraduate Student,Hostel / Dormitory,5579.0,0,2,Occasionally,2.1,1,4.0,3,3.5,11.2,0.0,8.1,5.2,25.5,Budget Constraints
+YA0144,19,Female,Undergraduate Student,With Parents / Family,4911.0,6,2,No,2.7,4,4.0,3,6.2,6.7,4.0,5.2,9.6,23.2,Lack of Time / Academic Load
+YA0145,21,Male,Undergraduate Student,Hostel / Dormitory,3614.0,0,5,Yes,1.1,1,6.0,5,3.9,12.2,1.7,10.0,4.0,30.5,Budget Constraints
+YA0146,21,Male,Undergraduate Student,Hostel / Dormitory,2897.0,0,3,Occasionally,0.8,2,3.0,3,4.7,9.7,3.2,3.5,8.4,20.5,Lack of Time / Academic Load
+YA0147,24,Female,Postgraduate Student,Hostel / Dormitory,6632.0,0,5,Yes,1.4,2,5.0,5,5.1,8.0,0.0,8.9,3.2,25.0,Lack of Time / Academic Load
+YA0148,21,Male,Postgraduate Student,With Parents / Family,5153.0,7,1,Yes,2.7,3,5.0,4,5.5,8.5,3.4,5.8,8.7,20.6,Lack of Time / Academic Load
+YA0149,21,Female,Undergraduate Student,Shared Apartment,4036.0,2,5,Yes,2.5,1,1.0,4,4.8,9.4,2.6,3.0,9.1,31.7,Lack of Time / Academic Load
+YA0150,20,Male,Undergraduate Student,Shared Apartment,4560.0,2,3,Yes,3.4,1,2.0,2,6.8,8.3,2.1,5.5,7.6,22.0,Food Delivery Apps Accessibility
+YA0151,23,Male,Working Professional,Shared Apartment,9231.0,1,1,Occasionally,2.2,2,4.0,2,4.5,7.4,0.0,8.1,7.9,26.4,None (Satisfied with Diet)
+YA0152,21,Female,Undergraduate Student,Shared Apartment,3142.0,2,1,Yes,4.0,1,3.0,3,5.2,7.5,6.1,4.8,8.8,21.5,Lack of Cooking Skills / Equipment
+YA0153,20,Female,Undergraduate Student,Hostel / Dormitory,4699.0,0,4,Occasionally,3.0,0,5.0,3,5.9,8.2,0.1,4.2,7.9,23.8,Lack of Time / Academic Load
+YA0154,22,Female,Postgraduate Student,Shared Apartment,3780.0,1,4,No,4.0,0,4.0,4,6.5,4.4,0.5,6.3,8.2,20.1,Lack of Time / Academic Load
+YA0155,20,Female,Freelancer / Job Seeker,Living Independently,6131.0,4,5,No,2.7,2,2.0,4,6.2,7.7,5.5,6.1,9.2,24.1,Lack of Time / Academic Load
+YA0156,20,Female,Undergraduate Student,Shared Apartment,3752.0,2,2,Occasionally,2.3,1,4.0,2,4.4,5.4,2.8,4.7,9.0,25.0,Lack of Time / Academic Load
+YA0157,21,Female,Postgraduate Student,With Parents / Family,7010.0,6,2,No,2.6,4,3.0,4,5.2,7.1,4.5,6.5,8.8,27.4,Lack of Cooking Skills / Equipment
+YA0158,25,Female,Working Professional,With Parents / Family,9537.0,5,0,Yes,3.0,4,2.0,4,5.3,7.0,0.3,7.2,6.1,21.0,Irregular Work / Study Hours
+YA0159,20,Male,Undergraduate Student,Hostel / Dormitory,3716.0,1,2,Yes,4.1,0,5.0,4,3.6,7.2,5.3,6.1,6.2,23.8,Budget Constraints
+YA0160,26,Male,Working Professional,Living Independently,7981.0,5,2,Yes,3.3,1,3.0,2,5.3,7.8,5.1,5.0,9.0,18.8,Food Delivery Apps Accessibility
+YA0161,20,Male,Undergraduate Student,Hostel / Dormitory,4023.0,0,5,Yes,3.5,0,4.0,5,3.5,9.1,0.0,8.4,6.0,27.9,Budget Constraints
+YA0162,21,Non-binary / Other,Postgraduate Student,Shared Apartment,5930.0,1,1,No,,0,6.0,3,3.5,10.5,,10.0,4.3,22.9,Lack of Time / Academic Load
+YA0163,24, Female ,Postgraduate Student,Hostel / Dormitory,8059.0,0,4,Yes,3.1,3,4.0,3,5.6,10.3,2.7,8.6,6.0,24.4,Lack of Time / Academic Load
+YA0164,24,Male,Postgraduate Student,Hostel / Dormitory,6462.0,1,4,No,2.7,3,2.0,4,6.5,4.8,0.0,2.2,9.1,23.0,Lack of Time / Academic Load
+YA0165,18,Female,Undergraduate Student,Hostel / Dormitory,5198.0,0,5,No,1.2,1,4.0,5,3.5,14.1,2.5,7.3,6.8,24.5,Food Delivery Apps Accessibility
+YA0166,26,Female,Working Professional,Shared Apartment,,2,1,No,3.0,2,2.0,3,7.3,4.3,2.0,4.5,9.6,19.4,Lack of Time / Academic Load
+YA0167,21,Male,Undergraduate Student,Shared Apartment,3691.0,3,3,Yes,2.7,0,1.0,3,7.2,10.0,3.1,4.2,8.0,24.2,Budget Constraints
+YA0168,18,Female,Undergraduate Student,Shared Apartment,4356.0,1,3,Yes,2.4,0,4.0,4,5.0,10.9,1.5,7.4,5.0,26.4,Lack of Time / Academic Load
+YA0169,21,Female,Undergraduate Student,Hostel / Dormitory,4185.0,0,4,Yes,2.5,1,6.0,5,4.4,12.5,4.0,7.0,3.6,19.8,Lack of Cooking Skills / Equipment
+YA0170,21,male,Postgraduate Student,Hostel / Dormitory,5337.0,0,5,Yes,2.5,0,2.0,4,4.9,8.1,1.9,4.4,7.3,26.4,Lack of Time / Academic Load
+YA0171,23,Female,Postgraduate Student,Shared Apartment,3553.0,2,4,Yes,2.9,1,4.0,5,4.0,11.8,0.0,7.8,5.9,25.0,Budget Constraints
+YA0172,20,Male,Undergraduate Student,Hostel / Dormitory,5885.0,0,3,Yes,2.5,2,3.0,2,4.9,3.7,2.7,5.3,6.0,20.3,Budget Constraints
+YA0173,21,female,Postgraduate Student,Shared Apartment,2463.0,1,4,Yes,2.7,0,4.0,5,3.9,12.9,1.4,7.3,5.3,23.7,Lack of Cooking Skills / Equipment
+YA0174,18,Non-binary / Other,Undergraduate Student,Shared Apartment,5125.0,2,4,Occasionally,2.1,0,3.0,4,4.0,7.3,1.9,4.5,8.1,32.3,Lack of Time / Academic Load
+YA0175,23,Female,Postgraduate Student,With Parents / Family,5219.0,7,2,Yes,2.1,3,4.0,4,5.4,7.4,2.9,4.9,6.2,21.8,Budget Constraints
+YA0176,21,Male,Undergraduate Student,Shared Apartment,,2,1,No,4.2,1,3.0,3,7.4,9.4,3.9,5.0,8.9,20.7,Lack of Cooking Skills / Equipment
+YA0177,23,Female,Postgraduate Student,Hostel / Dormitory,4495.0,1,2,Occasionally,2.0,0,3.0,2,5.4,10.3,2.9,6.8,7.0,19.9,Lack of Time / Academic Load
+YA0178,21,Female,Undergraduate Student,Shared Apartment,5362.0,3,1,Yes,3.8,0,2.0,3,5.8,7.0,6.0,2.2,7.3,21.9,Budget Constraints
+YA0179,20,Male,Freelancer / Job Seeker,Shared Apartment,4699.0,3,1,Occasionally,2.6,2,3.0,5,3.5,7.2,0.0,6.8,8.1,19.6,Food Delivery Apps Accessibility
+YA0180,18,Female,Undergraduate Student,Hostel / Dormitory,5499.0,1,4,No,2.9,2,3.0,5,5.6,10.2,1.5,8.3,5.8,23.9,Lack of Time / Academic Load
+YA0181,21,Male,Undergraduate Student,With Parents / Family,3658.0,4,0,Yes,1.2,5,2.0,3,7.7,7.2,0.0,6.8,7.4,23.7,Lack of Time / Academic Load
+YA0182,18,Female,Undergraduate Student,Hostel / Dormitory,3029.0,0,3,Yes,2.5,3,5.0,2,3.7,6.8,1.0,5.8,5.4,23.4,Lack of Time / Academic Load
+YA0183,21,Male,Freelancer / Job Seeker,With Parents / Family,3616.0,5,1,Yes,2.7,5,5.0,3,5.6,8.0,4.9,4.4,3.9,23.1,Lack of Time / Academic Load
+YA0184,25,Male,Working Professional,With Parents / Family,5206.0,6,0,Yes,2.4,3,4.0,3,4.3,8.7,4.1,7.3,6.4,25.5,Food Delivery Apps Accessibility
+YA0185,20,Male,Undergraduate Student, With Parents / Family ,4223.0,5,0,Occasionally,3.5,3,2.0,3,6.7,6.0,6.7,1.7,10.0,17.9,Lack of Time / Academic Load
+YA0186,24,Female,Postgraduate Student,With Parents / Family,3133.0,6,0,Occasionally,1.3,3,2.0,4,4.4,8.4,0.0,7.8,6.4,24.1,Budget Constraints
+YA0187,24,Male,Working Professional,Shared Apartment,7876.0,5,3,Yes,,2,3.0,2,6.2,7.1,0.4,3.3,6.5,25.7,Lack of Time / Academic Load
+YA0188,23,Female,Postgraduate Student,Hostel / Dormitory,2716.0,0,4,Yes,2.1,2,1.0,4,5.5,4.9,0.0,6.4,5.0,22.7,Lack of Time / Academic Load
+YA0189,23,Male,Postgraduate Student,Shared Apartment,6796.0,1,2,Occasionally,1.3,2,6.0,5,3.6,10.2,0.0,7.7,5.4,23.8,Budget Constraints
+YA0190,21,Male,Undergraduate Student,Hostel / Dormitory,3495.0,1,4,Yes,2.8,1,3.0,4,3.5,9.4,2.6,3.4,7.0,22.8,Lack of Time / Academic Load
+YA0191,20,female,Undergraduate Student,Shared Apartment,5361.0,3,3,Occasionally,0.8,3,2.0,1,7.9,4.4,0.0,1.4,8.0,28.0,Budget Constraints
+YA0192,24,Female,Working Professional,With Parents / Family,10352.0,7,2,Occasionally,3.6,4,3.0,3,3.5,6.8,6.4,4.7,5.2,18.6,Lack of Time / Academic Load
+YA0193,23,Male,Working Professional,With Parents / Family,3540.0,7,0,No,3.2,3,3.0,4,8.2,6.2,4.6,5.1,9.5,17.7,Food Delivery Apps Accessibility
+YA0194,21,Female,Postgraduate Student,Hostel / Dormitory,4705.0,0,5,Occasionally,2.5,1,5.0,4,5.5,9.0,0.0,8.3,6.8,21.5,Budget Constraints
+YA0195,18,Female,Undergraduate Student,Hostel / Dormitory,2459.0,1,3,No,3.6,0,2.0,4,6.9,8.6,3.0,8.0,9.2,23.0,Irregular Work / Study Hours
+YA0196,19,Female,Undergraduate Student,Hostel / Dormitory,3751.0,0,5,Yes,2.6,1,3.0,4,5.4,8.6,4.6,3.8,4.9,20.8,Budget Constraints
+YA0197,23,Male,Working Professional,Shared Apartment,11889.0,2,4,No,4.1,0,2.0,5,7.5,5.5,3.1,6.9,8.0,21.4,Lack of Time / Academic Load
+YA0198,25,Male,Working Professional,Living Independently,7784.0,1,2,Occasionally,2.8,0,3.0,3,6.6,7.3,,5.5,7.7,27.2,Irregular Work / Study Hours
+YA0199,22,Female,Working Professional,Shared Apartment,8428.0,3,5,Yes,3.0,1,4.0,4,5.3,8.1,1.1,8.1,3.5,22.2,None (Satisfied with Diet)
+YA0200,22,Male,Working Professional,Shared Apartment,10318.0,3,3,Yes,2.3,2,3.0,4,6.2,7.5,3.7,4.9,5.7,21.8,Food Delivery Apps Accessibility
+YA0201,21,Female,Postgraduate Student,Hostel / Dormitory,6780.0,0,4,No,2.9,0,5.0,5,5.4,8.4,,8.4,5.5,22.1,Budget Constraints
+YA0202,19,Female,Undergraduate Student,Shared Apartment,5801.0,2,2,Occasionally,,2,5.0,2,4.8,7.4,0.0,8.6,6.1,31.8,Budget Constraints
+YA0203,20,Female,Undergraduate Student,Shared Apartment,2407.0,5,5,Yes,2.5,0,1.0,3,6.1,8.7,2.1,3.3,6.6,28.6,Budget Constraints
+YA0204,23,Female,Working Professional,Shared Apartment,9848.0,5,5,Occasionally,2.5,1,2.0,4,7.9,6.6,4.1,4.1,8.6,23.3,Lack of Time / Academic Load
+YA0205,23,Non-binary / Other,Postgraduate Student,Hostel / Dormitory,5648.0,1,2,Yes,2.8,0,5.0,4,5.7,9.1,0.1,10.0,5.5,22.7,Food Delivery Apps Accessibility
+YA0206,18,Male,Undergraduate Student,Hostel / Dormitory,2872.0,0,4,Yes,2.2,1,2.0,3,4.2,7.2,2.1,4.4,6.7,24.8,Lack of Time / Academic Load
+YA0207,21,Female,Undergraduate Student, Hostel / Dormitory ,4133.0,0,2,No,3.3,1,1.0,3,7.0,8.6,7.1,4.9,10.0,22.2,Lack of Time / Academic Load
+YA0208,22,Male,Postgraduate Student,Shared Apartment,5923.0,2,4,Yes,2.8,0,3.0,4,5.6,5.3,0.0,6.3,4.1,21.7,Lack of Time / Academic Load
+YA0209,21,Male,Undergraduate Student,Shared Apartment,2637.0,3,3,Yes,1.8,2,3.0,4,6.0,7.2,0.0,6.4,5.7,25.5,Irregular Work / Study Hours
+YA0210,19,Female,Undergraduate Student,Hostel / Dormitory,1500.0,1,3,No,4.5,0,0.0,1,6.5,5.7,7.7,3.5,10.0,22.2,Lack of Time / Academic Load
+YA0211,21,Female,Postgraduate Student,Hostel / Dormitory,5660.0,0,4,Occasionally,1.3,1,2.0,3,6.4,8.9,3.7,4.0,9.3,24.2,Budget Constraints
+YA0212,21,Non-binary / Other,Postgraduate Student,Living Independently,4808.0,1,2,Yes,2.2,1,2.0,2,7.5,7.7,0.0,3.9,6.6,28.9,Lack of Time / Academic Load
+YA0213,21,Female,Postgraduate Student,Hostel / Dormitory,3525.0,0,4,No,1.6,0,3.0,5,4.1,8.6,3.2,7.0,4.6,19.4,Lack of Time / Academic Load
+YA0214,19,Male,Undergraduate Student,Shared Apartment,3442.0,1,3,Yes,1.7,1,2.0,4,4.5,7.1,0.5,10.0,5.9,28.3,Lack of Time / Academic Load
+YA0215,23,Male,Working Professional,Shared Apartment,9338.0,3,1,Yes,1.6,2,5.0,2,4.4,6.9,1.6,6.3,6.8,20.1,Lack of Cooking Skills / Equipment
+YA0216,19,Female,Undergraduate Student,Shared Apartment,2376.0,2,2,Yes,3.6,1,3.0,2,4.1,7.2,6.0,6.8,7.9,23.3,Budget Constraints
+YA0217,18,Male,Undergraduate Student,Hostel / Dormitory,,0,2,Yes,1.3,1,3.0,4,4.8,10.0,4.9,5.6,7.7,26.1,Lack of Time / Academic Load
+YA0218,25,Male,Working Professional,With Parents / Family,4947.0,6,1,Occasionally,3.1,3,4.0,4,5.5,4.3,3.2,7.5,6.5,22.6,Irregular Work / Study Hours
+YA0219,24,Male,Postgraduate Student,Living Independently,4916.0,3,2,No,3.3,1,5.0,3,8.1,7.3,2.0,7.3,8.2,21.1,Budget Constraints
+YA0220,24,Male,Working Professional,Shared Apartment,8759.0,1,3,Occasionally,1.9,2,4.0,4,3.5,10.3,1.4,6.6,5.2,29.9,Lack of Cooking Skills / Equipment
+YA0221,24,Male,Postgraduate Student,Hostel / Dormitory,4306.0,0,5,No,2.7,1,2.0,5,6.4,6.8,4.1,7.2,8.6,29.1,Food Delivery Apps Accessibility
+YA0222,22,Male,Postgraduate Student,Hostel / Dormitory,3488.0,0,3,Occasionally,3.3,0,4.0,4,5.0,7.8,5.1,7.6,5.8,23.5,Food Delivery Apps Accessibility
+YA0223,19,Male,Undergraduate Student,Hostel / Dormitory,3974.0,0,6,Yes,2.1,1,1.0,5,4.6,9.4,0.8,3.7,6.3,22.4,Lack of Cooking Skills / Equipment
+YA0224,18,Male,Undergraduate Student,Hostel / Dormitory,4384.0,0,3,Occasionally,2.9,1,4.0,3,4.9,10.0,5.9,7.1,7.1,22.2,Lack of Time / Academic Load
+YA0225,18,Non-binary / Other,Undergraduate Student,Hostel / Dormitory,6664.0,0,2,Yes,2.8,2,4.0,3,5.1,7.4,0.7,4.3,7.0,22.3,Budget Constraints
+YA0226,21,Male,Undergraduate Student,With Parents / Family,4918.0,7,0,Occasionally,3.6,3,2.0,5,6.3,10.8,5.0,5.0,10.0,20.4,Budget Constraints
+YA0227,23,Male,Freelancer / Job Seeker,Shared Apartment,6284.0,4,1,Occasionally,2.6,2,2.0,3,4.6,6.0,,6.0,8.7,19.7,Lack of Time / Academic Load
+YA0228,19,Female,Undergraduate Student,Hostel / Dormitory,4087.0,1,4,Occasionally,2.3,0,,4,3.8,11.8,1.1,7.5,6.7,24.5,None (Satisfied with Diet)
+YA0229,24,Male,Working Professional,Living Independently,9007.0,5,3,Yes,2.7,0,4.0,3,4.4,8.5,0.3,7.0,5.8,20.8,Food Delivery Apps Accessibility
+YA0230,22,Female,Postgraduate Student,Hostel / Dormitory,3474.0,0,2,Yes,3.2,0,2.0,3,4.1,9.2,3.1,4.5,6.0,22.2,Lack of Cooking Skills / Equipment
+YA0231,22,Female,Working Professional,Living Independently,7243.0,3,3,Yes,1.7,0,2.0,4,5.9,8.2,1.8,3.9,8.5,23.6,Lack of Cooking Skills / Equipment
+YA0232,24,Male,Postgraduate Student,Hostel / Dormitory,4718.0,0,4,No,2.8,0,1.0,3,6.8,8.6,7.4,2.8,9.7,22.9,Food Delivery Apps Accessibility
+YA0233,22,Male,Postgraduate Student,With Parents / Family,2509.0,6,1,No,3.6,5,3.0,3,3.6,7.3,4.4,3.2,8.8,17.6,Food Delivery Apps Accessibility
+YA0234,23,Female,Postgraduate Student,Shared Apartment,3693.0,1,2,Occasionally,3.7,1,,5,3.5,11.0,5.2,9.3,7.6,20.2,Budget Constraints
+YA0235,18,Female,Undergraduate Student,With Parents / Family,2746.0,7,0,Yes,4.5,4,4.0,4,4.9,4.3,5.8,1.8,7.0,27.3,Food Delivery Apps Accessibility
+YA0236,22,Male,Working Professional,Living Independently,12636.0,1,3,Occasionally,1.9,2,0.0,3,4.5,7.6,0.0,4.8,6.7,26.2,Food Delivery Apps Accessibility
+YA0237,21,Female,Undergraduate Student,Hostel / Dormitory,4633.0,0,4,Occasionally,3.1,0,1.0,4,6.0,7.3,1.5,6.9,5.7,23.5,Budget Constraints
+YA0238,20, Male ,Undergraduate Student,Living Independently,3192.0,4,4,Yes,2.9,1,3.0,3,6.9,8.3,2.2,3.5,6.4,23.8,Budget Constraints
+YA0239,22,Non-binary / Other,Postgraduate Student,Hostel / Dormitory,,0,5,Occasionally,2.3,0,4.0,5,3.5,7.6,0.2,9.2,5.3,29.1,Lack of Time / Academic Load
+YA0240,21,Male,Undergraduate Student,Hostel / Dormitory,4268.0,0,2,Yes,2.0,2,4.0,2,4.9,8.7,3.0,4.6,7.5,23.0,Lack of Cooking Skills / Equipment
+YA0241,21,Female,Freelancer / Job Seeker,Shared Apartment,3113.0,4,4,Yes,2.5,1,4.0,4,5.8,5.3,0.0,4.8,5.9,22.4,Lack of Time / Academic Load
+YA0242,20,Female,Freelancer / Job Seeker,With Parents / Family,2904.0,6,0,Occasionally,1.2,4,3.0,4,7.1,3.6,1.6,4.6,8.2,27.8,Lack of Time / Academic Load
+YA0243,23,Female,Working Professional,Shared Apartment,5096.0,4,4,Yes,,2,3.0,5,4.5,6.9,3.6,10.0,6.2,22.2,Food Delivery Apps Accessibility
+YA0244,19,Female,Undergraduate Student,Shared Apartment,4949.0,5,5,Yes,2.3,2,3.0,5,4.9,6.7,4.6,5.8,5.1,18.8,Lack of Time / Academic Load
+YA0245,21,Male,Undergraduate Student,Shared Apartment,4808.0,2,2,No,1.0,2,3.0,5,4.4,10.7,0.9,9.4,4.7,25.6,Budget Constraints
+YA0246,25,Male,Freelancer / Job Seeker,With Parents / Family,4718.0,5,1,No,2.4,3,4.0,3,5.9,3.0,1.8,4.6,7.5,21.3,Food Delivery Apps Accessibility
+YA0247,21,Male,Undergraduate Student, With Parents / Family ,5171.0,7,2,Yes,1.6,3,5.0,2,5.7,8.3,0.0,4.1,5.5,23.9,Lack of Time / Academic Load
+YA0248,24,Male,Freelancer / Job Seeker,Shared Apartment,4840.0,3,5,No,2.0,1,3.0,5,6.3,4.9,0.8,6.4,6.9,22.9,Food Delivery Apps Accessibility
+YA0249,23,Female,Freelancer / Job Seeker,Shared Apartment,3640.0,2,2,Yes,2.8,1,3.0,4,5.2,7.7,1.8,6.7,3.2,21.0,Budget Constraints
+YA0250,24,Male,Working Professional,Shared Apartment,7485.0,3,2,No,2.1,2,3.0,2,5.3,10.2,3.9,5.2,9.2,16.2,Irregular Work / Study Hours
+YA0251,19,Male,Undergraduate Student,Hostel / Dormitory,5171.0,0,2,Yes,3.4,1,3.0,2,4.5,6.5,5.3,3.6,7.3,19.3,Lack of Time / Academic Load
+YA0252,18,Female,Undergraduate Student,Hostel / Dormitory,3801.0,0,5,Occasionally,2.6,1,,4,3.5,7.1,3.8,6.0,9.5,27.0,Lack of Time / Academic Load
+YA0253,26,Female,Working Professional,Shared Apartment,5486.0,3,1,No,1.7,1,1.0,3,6.6,6.9,4.0,5.6,9.1,24.6,Lack of Time / Academic Load
+YA0254,20,Female,Undergraduate Student,Hostel / Dormitory,4607.0,0,4,Yes,3.3,2,6.0,3,3.5,9.7,5.0,8.5,5.2,22.6,Lack of Time / Academic Load
+YA0255,19,Non-binary / Other,Undergraduate Student,Living Independently,4282.0,3,1,Yes,2.9,1,4.0,3,5.8,6.7,2.4,6.6,7.6,23.5,Lack of Time / Academic Load
+YA0256,24,Male,Postgraduate Student,Shared Apartment,6820.0,1,3,Yes,2.9,2,3.0,3,3.7,5.8,1.3,6.0,4.8,25.6,Lack of Time / Academic Load
+YA0257,25,MALE,Freelancer / Job Seeker,Shared Apartment,4820.0,2,4,Yes,2.7,1,3.0,5,6.8,8.7,3.7,5.4,7.5,19.0,Lack of Cooking Skills / Equipment
+YA0258,23,Female,Postgraduate Student,Shared Apartment,5543.0,1,2,Yes,2.3,0,5.0,4,3.9,9.2,3.2,10.0,3.1,22.0,Budget Constraints
+YA0259,23,Female,Postgraduate Student, Hostel / Dormitory ,1500.0,0,4,Yes,1.9,1,3.0,5,3.5,11.3,0.0,8.2,3.2,27.0,Food Delivery Apps Accessibility
+YA0260,18,Male,Undergraduate Student,Hostel / Dormitory,4011.0,0,6,No,2.7,1,5.0,5,5.6,7.7,0.7,6.3,7.6,25.9,Irregular Work / Study Hours
+YA0261,24,Female,Postgraduate Student,Shared Apartment,7238.0,2,5,Yes,1.9,0,3.0,4,3.5,6.6,2.5,4.5,6.4,23.3,Budget Constraints
+YA0262,20,Male,Freelancer / Job Seeker,Shared Apartment,3490.0,3,1,Occasionally,2.3,1,3.0,2,5.4,5.0,2.1,4.7,6.9,24.1,Budget Constraints
+YA0263,20,Male,Undergraduate Student,Hostel / Dormitory,4098.0,0,4,Yes,2.1,3,5.0,5,4.4,13.8,4.8,6.5,6.8,22.6,Lack of Cooking Skills / Equipment
+YA0264,22,Female,Postgraduate Student,Living Independently,,1,4,No,2.4,1,3.0,5,5.0,4.9,0.0,6.3,7.4,25.5,Lack of Cooking Skills / Equipment
+YA0265,26,Female,Working Professional,Living Independently,6971.0,3,5,Yes,2.0,1,3.0,2,5.5,6.7,3.9,2.8,6.6,25.6,Lack of Time / Academic Load
+YA0266,26,Female,Working Professional,With Parents / Family,7938.0,6,0,No,3.7,3,2.0,2,6.5,7.4,4.6,6.0,6.7,24.3,Lack of Time / Academic Load
+YA0267,22,Male,Postgraduate Student,Shared Apartment,6404.0,3,2,Yes,2.4,2,5.0,5,4.7,13.2,1.6,9.1,6.6,25.1,Lack of Time / Academic Load
+YA0268,26,Female,Working Professional,With Parents / Family,9336.0,6,1,No,2.5,4,3.0,3,5.4,8.9,1.1,5.4,9.4,23.5,Irregular Work / Study Hours
+YA0269,19,Male,Undergraduate Student,Hostel / Dormitory,3990.0,0,3,Yes,1.6,1,4.0,3,3.7,10.5,0.0,7.2,5.4,26.1,Lack of Time / Academic Load
+YA0270,21,Male,Undergraduate Student,Hostel / Dormitory,1616.0,0,4,Occasionally,2.9,1,6.0,5,5.6,9.9,3.1,7.6,9.0,20.7,Lack of Cooking Skills / Equipment
+YA0271,25,Female,Working Professional,Hostel / Dormitory,10071.0,1,4,Occasionally,3.0,0,2.0,3,7.5,4.2,0.3,3.2,9.4,22.8,Food Delivery Apps Accessibility
+YA0272,24,Female,Working Professional,Shared Apartment,4750.0,3,3,No,2.5,0,5.0,4,5.6,7.1,3.5,6.8,5.9,16.3,Lack of Time / Academic Load
+YA0273,24,Female,Working Professional,With Parents / Family,5241.0,6,1,No,1.9,4,2.0,2,6.2,5.3,0.0,5.5,7.9,22.7,Lack of Cooking Skills / Equipment
+YA0274,22,Female,Working Professional, Shared Apartment ,5911.0,1,2,Yes,2.8,0,5.0,4,4.4,5.1,2.4,6.2,4.2,26.0,Lack of Time / Academic Load
+YA0275,22,Female,Postgraduate Student, Living Independently ,4143.0,5,3,No,3.1,2,2.0,2,8.6,6.7,3.0,4.5,7.7,22.3,Lack of Cooking Skills / Equipment
+YA0276,24,Female,Postgraduate Student,With Parents / Family,4072.0,7,2,Yes,3.5,3,4.0,4,3.7,9.5,5.6,6.5,5.1,20.4,Food Delivery Apps Accessibility
+YA0277,26,Male,Working Professional,With Parents / Family,11900.0,7,0,Yes,2.6,3,3.0,4,5.0,5.6,1.7,4.2,5.4,16.7,Lack of Time / Academic Load
+YA0278,21,Male,Postgraduate Student,Shared Apartment,4547.0,2,2,Yes,2.4,2,5.0,3,4.3,8.4,0.0,4.7,6.7,22.7,Lack of Time / Academic Load
+YA0279,23,Male,Working Professional,Living Independently,10274.0,1,5,No,2.2,0,3.0,4,6.9,4.7,2.7,4.2,10.0,26.7,Lack of Cooking Skills / Equipment
+YA0280,23,Male,Working Professional,Shared Apartment,4769.0,2,1,Yes,3.0,2,3.0,3,5.0,6.7,5.9,7.6,8.4,20.1,Food Delivery Apps Accessibility
+YA0281,26,Female,Working Professional,With Parents / Family,10046.0,6,1,No,3.6,3,1.0,3,5.3,5.9,4.8,5.1,10.0,17.0,Budget Constraints
+YA0282,18,MALE,Undergraduate Student,Hostel / Dormitory,4845.0,1,2,No,2.4,2,3.0,3,9.3,4.9,3.3,3.7,10.0,19.4,Irregular Work / Study Hours
+YA0283,20,Male,Undergraduate Student,With Parents / Family,6251.0,4,1,No,3.4,4,3.0,2,5.3,8.3,2.1,4.1,10.0,28.4,Lack of Time / Academic Load
+YA0284,21,Male,Undergraduate Student,Hostel / Dormitory,5327.0,0,4,Yes,2.2,2,4.0,5,4.5,6.8,0.0,6.8,6.5,21.7,Lack of Time / Academic Load
+YA0285,23,Female,Postgraduate Student, With Parents / Family ,7077.0,7,1,Occasionally,3.0,4,4.0,4,4.5,7.3,2.2,5.4,10.0,25.2,None (Satisfied with Diet)
+YA0286,19,Male,Undergraduate Student,With Parents / Family,4679.0,6,2,Yes,2.9,2,6.0,4,4.1,11.7,0.5,6.6,4.4,24.8,Budget Constraints
+YA0287,23,Female,Postgraduate Student,Hostel / Dormitory,4775.0,0,2,Occasionally,2.0,1,2.0,4,6.1,8.0,5.2,6.0,9.0,20.9,Food Delivery Apps Accessibility
+YA0288,23,Male,Postgraduate Student,Hostel / Dormitory,,0,3,No,2.5,2,5.0,4,5.4,6.0,0.8,8.6,6.7,23.1,Budget Constraints
+YA0289,20,male,Undergraduate Student,Living Independently,3274.0,1,2,No,3.5,1,3.0,4,3.5,13.4,3.8,6.8,9.3,27.0,Budget Constraints
+YA0290,23,Female,Postgraduate Student,Shared Apartment,6411.0,2,2,Yes,1.4,3,4.0,4,3.8,9.8,0.0,7.4,7.3,22.5,Budget Constraints
+YA0291,21,Female,Undergraduate Student,With Parents / Family,5255.0,6,0,Yes,2.8,2,3.0,2,4.5,6.1,4.7,2.7,9.9,20.8,Lack of Time / Academic Load
+YA0292,21,Male,Undergraduate Student,Shared Apartment,5035.0,3,2,Occasionally,3.3,0,4.0,4,3.9,4.7,0.1,7.7,5.6,22.5,Lack of Time / Academic Load
+YA0293,26,Female,Working Professional,Shared Apartment,6973.0,3,4,Yes,2.5,1,3.0,4,5.7,7.9,2.6,6.6,6.8,25.2,Budget Constraints
+YA0294,19,Female,Undergraduate Student,Hostel / Dormitory,2878.0,0,3,Occasionally,3.6,2,3.0,2,5.1,7.5,6.7,2.7,8.9,16.2,Lack of Cooking Skills / Equipment
+YA0295,20,Male,Undergraduate Student,Hostel / Dormitory,1930.0,0,4,No,4.0,0,3.0,5,4.1,6.9,7.1,5.0,9.9,20.7,Lack of Cooking Skills / Equipment
+YA0296,21,Female,Postgraduate Student,With Parents / Family,4603.0,6,1,Yes,2.4,4,1.0,5,5.6,7.7,2.3,4.3,8.7,21.3,Irregular Work / Study Hours
+YA0297,26,Female,Working Professional,Shared Apartment,12240.0,2,4,No,2.3,1,5.0,4,4.9,8.1,5.9,7.2,8.0,28.5,Budget Constraints
+YA0298,18,Female,Undergraduate Student,Shared Apartment,3967.0,3,1,Yes,2.8,1,3.0,3,5.4,4.8,3.3,2.6,9.1,25.8,Lack of Time / Academic Load
+YA0299,24,Female,Postgraduate Student,Shared Apartment,5221.0,1,1,Yes,1.8,2,3.0,3,5.2,9.6,0.3,7.5,4.2,16.7,Lack of Time / Academic Load
+YA0300,20,Female,Undergraduate Student,Shared Apartment,4214.0,5,2,No,3.6,0,4.0,5,4.4,11.9,6.1,7.8,9.7,23.0,Food Delivery Apps Accessibility
+YA0301,20,Female,Undergraduate Student,With Parents / Family,6257.0,5,2,Occasionally,4.0,3,2.0,3,6.7,7.5,8.2,4.4,9.4,25.7,Lack of Time / Academic Load
+YA0302,22,Female,Postgraduate Student,Living Independently,5108.0,3,2,Occasionally,0.9,0,2.0,3,6.7,6.5,4.2,5.5,9.5,17.5,Lack of Time / Academic Load
+YA0303,23,Female,Postgraduate Student,Hostel / Dormitory,4142.0,0,4,Occasionally,2.2,0,3.0,4,5.5,7.5,0.0,6.0,4.4,25.6,Lack of Cooking Skills / Equipment
+YA0304,23,Female,Postgraduate Student,With Parents / Family,4537.0,7,0,Occasionally,2.9,4,5.0,2,6.0,10.1,1.8,4.4,9.7,30.9,Budget Constraints
+YA0305,26,Female,Working Professional,With Parents / Family,9631.0,6,2,Yes,2.0,3,4.0,3,5.1,8.6,1.3,6.8,5.2,19.1,Lack of Time / Academic Load
+YA0306,25,Female,Freelancer / Job Seeker,With Parents / Family,2868.0,7,0,Occasionally,1.5,2,4.0,2,7.2,9.3,0.4,3.4,10.0,23.5,Food Delivery Apps Accessibility
+YA0307,23,Male,Postgraduate Student,Living Independently,4721.0,3,4,Occasionally,2.7,1,3.0,5,7.4,10.4,1.0,4.7,8.6,25.6,Lack of Time / Academic Load
+YA0308,21, Female ,Undergraduate Student,Hostel / Dormitory,2930.0,0,4,Occasionally,2.5,2,5.0,5,3.6,12.6,0.5,6.4,5.7,28.4,Lack of Time / Academic Load
+YA0309,22,Female,Working Professional,Shared Apartment,1831.0,3,5,Occasionally,2.7,1,2.0,3,5.6,8.9,0.0,2.6,5.5,27.1,Lack of Time / Academic Load
+YA0310,21,Male,Undergraduate Student,With Parents / Family,4957.0,5,1,No,2.1,2,1.0,2,6.2,5.1,0.0,4.4,10.0,28.3,Irregular Work / Study Hours
+YA0311,18,Female,Undergraduate Student,Hostel / Dormitory,2940.0,0,5,Occasionally,2.9,0,1.0,3,6.4,11.9,2.3,2.5,9.4,21.5,Lack of Time / Academic Load
+YA0312,20,Male,Undergraduate Student,With Parents / Family,4632.0,4,3,No,1.4,3,2.0,2,5.0,8.3,0.0,3.5,7.9,25.5,Lack of Time / Academic Load
+YA0313,21,Male,Undergraduate Student,With Parents / Family,3776.0,7,3,Occasionally,3.1,3,5.0,5,4.6,9.2,6.1,6.7,8.0,21.6,Food Delivery Apps Accessibility
+YA0314,21,Female,Freelancer / Job Seeker,Hostel / Dormitory,3753.0,1,6,No,2.0,1,1.0,4,6.4,5.9,0.0,5.0,6.2,27.5,Lack of Cooking Skills / Equipment
+YA0315,23,Male,Working Professional,Living Independently,7402.0,3,5,No,2.0,1,3.0,4,6.6,7.8,2.5,7.2,10.0,29.9,Lack of Time / Academic Load
+YA0316,24,Female,Postgraduate Student,Hostel / Dormitory,6025.0,0,6,No,2.2,2,3.0,4,3.5,7.2,0.0,7.1,7.1,25.9,Budget Constraints
+YA0317,21,Female,Undergraduate Student,Shared Apartment,5779.0,1,1,Yes,2.9,0,3.0,4,3.5,8.4,2.3,3.6,7.2,28.9,Budget Constraints
+YA0318,18,MALE,Undergraduate Student,Shared Apartment,3570.0,4,2,Occasionally,1.6,0,2.0,3,6.5,7.1,0.0,6.4,6.3,27.3,Lack of Cooking Skills / Equipment
+YA0319,21,Male,Undergraduate Student,With Parents / Family,2521.0,6,2,Yes,2.4,3,3.0,3,5.3,3.8,0.0,5.7,6.3,16.7,Lack of Time / Academic Load
+YA0320,18,Male,Undergraduate Student,Hostel / Dormitory,4930.0,0,3,Occasionally,2.5,2,5.0,3,5.0,11.5,0.3,7.7,6.1,21.9,Lack of Time / Academic Load
+YA0321,23, Female ,Postgraduate Student,Hostel / Dormitory,4723.0,0,2,No,1.6,2,4.0,4,3.5,6.9,0.2,8.9,5.6,24.0,Budget Constraints
+YA0322,22,Non-binary / Other,Working Professional,With Parents / Family,10358.0,6,0,No,2.8,3,2.0,5,6.3,4.6,5.9,5.4,10.0,23.4,Lack of Cooking Skills / Equipment
+YA0323,24,Female,Postgraduate Student,Shared Apartment,7016.0,1,2,No,1.6,1,4.0,4,3.9,8.1,4.7,7.6,7.1,16.8,Lack of Time / Academic Load
+YA0324,21,Male,Undergraduate Student,Shared Apartment,5540.0,3,3,Occasionally,2.4,2,3.0,2,4.7,6.3,4.2,1.9,8.1,16.4,Budget Constraints
+YA0325,22,Female,Freelancer / Job Seeker,Shared Apartment,5283.0,2,2,Yes,2.8,1,4.0,4,5.1,7.8,0.0,4.6,7.3,22.1,Lack of Time / Academic Load
+YA0326,23,Female,Working Professional,Shared Apartment,10688.0,3,1,Yes,2.3,1,4.0,3,6.0,9.8,5.8,5.7,7.6,18.3,Lack of Cooking Skills / Equipment
+YA0327,22,Female,Postgraduate Student,Hostel / Dormitory,4276.0,0,7,Occasionally,2.4,1,3.0,5,6.0,7.4,2.1,5.4,6.2,22.6,Budget Constraints
+YA0328,23,Male,Postgraduate Student,With Parents / Family,3126.0,6,1,Occasionally,3.7,2,5.0,4,3.5,6.4,3.6,10.0,6.1,21.1,Lack of Time / Academic Load
+YA0329,18,Female,Undergraduate Student,Hostel / Dormitory,4304.0,0,4,Occasionally,2.9,3,5.0,4,4.2,10.0,1.6,7.1,7.1,23.0,Lack of Cooking Skills / Equipment
+YA0330,19,Female,Undergraduate Student,Hostel / Dormitory,4449.0,1,4,Yes,3.2,1,4.0,5,5.3,12.7,0.0,7.6,7.3,21.8,Food Delivery Apps Accessibility
+YA0331,18,Female,Undergraduate Student,Living Independently,4272.0,1,2,Occasionally,3.1,1,0.0,3,6.8,9.3,0.6,4.5,7.6,23.3,Food Delivery Apps Accessibility
+YA0332,24,Male,Working Professional,Hostel / Dormitory,7004.0,1,5,No,2.7,1,2.0,3,5.6,7.9,5.9,3.1,9.6,20.9,Lack of Time / Academic Load
+YA0333,20,Female,Undergraduate Student,Living Independently,3017.0,5,1,No,2.9,0,4.0,4,3.5,8.0,,7.6,8.8,25.1,Lack of Time / Academic Load
+YA0334,19,Female,Undergraduate Student,Shared Apartment,6832.0,3,5,Yes,2.8,0,4.0,4,3.5,9.6,1.3,7.6,4.0,20.3,Food Delivery Apps Accessibility
+YA0335,18, Male ,Undergraduate Student,With Parents / Family,3137.0,6,1,Occasionally,1.6,3,5.0,3,3.5,12.5,1.3,7.9,7.0,16.2,Budget Constraints
+YA0336,21,Female,Undergraduate Student,Hostel / Dormitory,3775.0,0,3,No,2.6,1,5.0,5,7.0,6.0,5.0,3.3,10.0,20.1,Lack of Cooking Skills / Equipment
+YA0337,26,female,Working Professional,Hostel / Dormitory,10832.0,2,4,No,1.5,2,3.0,4,6.9,5.1,2.4,5.8,7.2,19.8,Lack of Time / Academic Load
+YA0338,22,Male,Working Professional,With Parents / Family,7365.0,7,2,Occasionally,1.9,3,1.0,2,6.1,5.4,3.5,3.2,10.0,20.5,Irregular Work / Study Hours
+YA0339,24,Male,Postgraduate Student,With Parents / Family,6275.0,6,1,Yes,2.3,2,3.0,4,5.0,11.4,1.6,7.8,7.0,23.5,Lack of Time / Academic Load
+YA0340,21,Female,Undergraduate Student,Shared Apartment,1500.0,3,4,No,2.3,2,5.0,5,5.5,5.2,1.1,7.0,5.8,16.2,Lack of Cooking Skills / Equipment
+YA0341,22,Male,Postgraduate Student,Hostel / Dormitory,3254.0,0,6,Occasionally,3.1,1,3.0,4,7.0,8.2,3.9,4.2,10.0,28.7,Budget Constraints
+YA0342,22,Female,Postgraduate Student, With Parents / Family ,6103.0,5,0,Yes,2.9,3,4.0,5,4.3,7.7,3.2,6.4,6.3,19.4,None (Satisfied with Diet)
+YA0343,19,Male,Undergraduate Student,With Parents / Family,4466.0,6,0,Yes,2.3,2,5.0,2,4.8,7.8,0.8,5.3,6.6,23.6,Lack of Cooking Skills / Equipment
+YA0344,19,Female,Undergraduate Student,Shared Apartment,4266.0,3,1,Yes,2.4,1,,3,5.6,11.4,0.0,5.2,6.8,25.4,Lack of Time / Academic Load
+YA0345,19,Male,Undergraduate Student,With Parents / Family,5373.0,7,0,Yes,1.9,3,3.0,5,4.1,11.2,4.4,7.3,6.1,16.2,Food Delivery Apps Accessibility
+YA0346,24,Female,Postgraduate Student,With Parents / Family,7980.0,6,0,Yes,3.9,4,2.0,2,5.1,6.1,2.7,2.4,6.8,16.5,Budget Constraints
+YA0347,21,Non-binary / Other,Postgraduate Student,Shared Apartment,3946.0,5,3,Occasionally,2.1,1,3.0,3,4.7,8.9,2.2,7.2,6.1,20.8,Lack of Time / Academic Load
+YA0348,19,Female,Undergraduate Student,Hostel / Dormitory,4679.0,1,4,Yes,2.0,1,4.0,5,5.8,7.8,2.7,6.4,7.0,21.9,Lack of Time / Academic Load
+YA0349,19,Female,Undergraduate Student,Shared Apartment,3131.0,2,4,Yes,1.7,1,3.0,4,6.7,8.6,3.1,7.3,6.3,25.5,Lack of Time / Academic Load
+YA0350,21,Male,Postgraduate Student,Hostel / Dormitory,6346.0,0,4,Yes,2.4,0,4.0,5,3.5,12.2,0.0,9.2,4.5,29.0,Lack of Time / Academic Load
+YA0351,22,Female,Postgraduate Student,Hostel / Dormitory,8035.0,0,4,Yes,2.0,1,4.0,5,3.9,9.8,0.0,8.0,4.4,24.0,Food Delivery Apps Accessibility
+YA0352,26,Male,Working Professional,Shared Apartment,6345.0,2,5,Yes,2.6,1,6.0,5,5.5,6.1,1.2,9.5,3.0,25.8,Lack of Time / Academic Load
+YA0353,21,Male,Postgraduate Student,Hostel / Dormitory,3072.0,0,4,Yes,1.9,2,3.0,4,6.5,6.4,1.6,6.0,6.0,27.0,Lack of Time / Academic Load
+YA0354,21,Male,Undergraduate Student,Hostel / Dormitory,4064.0,0,4,No,2.1,2,4.0,4,5.8,8.8,2.3,6.6,9.2,22.2,Lack of Time / Academic Load
+YA0355,20,Male,Undergraduate Student,Hostel / Dormitory,4959.0,0,4,Occasionally,1.7,1,3.0,5,6.0,10.4,2.2,5.0,8.8,26.1,Lack of Time / Academic Load
+YA0356,24,Female,Postgraduate Student,With Parents / Family,6932.0,6,1,Yes,2.8,4,5.0,1,5.5,8.9,3.7,6.7,6.1,19.9,Lack of Time / Academic Load
+YA0357,20,Female,Undergraduate Student,With Parents / Family,4501.0,7,0,No,2.2,3,2.0,2,6.4,6.8,1.9,4.1,8.3,28.2,Lack of Time / Academic Load
+YA0358,23,Male,Postgraduate Student,Hostel / Dormitory,6304.0,1,3,Yes,1.0,1,4.0,5,4.4,7.7,5.7,9.4,4.5,25.5,Lack of Time / Academic Load
+YA0359,25,Male,Freelancer / Job Seeker,Living Independently,2933.0,2,2,Yes,3.5,1,6.0,3,5.4,10.5,5.8,4.5,6.8,16.2,Food Delivery Apps Accessibility
+YA0360,24,Non-binary / Other,Postgraduate Student,Shared Apartment,6022.0,1,2,Yes,2.8,2,3.0,4,3.5,9.6,,7.7,4.1,20.5,Lack of Time / Academic Load
+YA0361,20,Male,Undergraduate Student,Hostel / Dormitory,1550.0,0,2,Yes,2.3,2,5.0,2,3.9,5.3,4.1,6.0,6.7,28.5,Lack of Time / Academic Load
+YA0362,21,Male,Postgraduate Student,Hostel / Dormitory,4528.0,0,5,No,3.7,1,3.0,5,6.9,4.5,6.7,5.3,9.3,20.4,Food Delivery Apps Accessibility
+YA0363,22,Male,Postgraduate Student,Shared Apartment,5046.0,3,1,No,2.8,2,4.0,4,5.0,8.2,0.0,6.7,8.5,21.7,Lack of Time / Academic Load
+YA0364,24,Female,Postgraduate Student,With Parents / Family,5846.0,7,0,Occasionally,2.3,2,4.0,4,4.2,5.9,1.1,8.8,6.4,24.7,Budget Constraints
+YA0365,24,Female,Freelancer / Job Seeker,With Parents / Family,4512.0,7,3,Occasionally,2.6,3,4.0,3,5.5,8.8,1.7,6.9,10.0,28.1,Lack of Time / Academic Load
+YA0366,21,Male,Undergraduate Student,Hostel / Dormitory,4058.0,0,5,No,4.5,0,4.0,3,4.3,7.5,6.5,5.4,6.8,25.5,Food Delivery Apps Accessibility
+YA0367,23,Male,Freelancer / Job Seeker,Hostel / Dormitory,3953.0,0,5,Yes,1.9,1,1.0,4,6.5,5.7,3.2,6.7,5.2,19.7,Food Delivery Apps Accessibility
+YA0368,23,Female,Working Professional, Shared Apartment ,7739.0,3,3,Yes,1.3,3,3.0,5,4.4,8.9,0.0,9.8,5.4,21.8,Food Delivery Apps Accessibility
+YA0369,21,Female,Undergraduate Student,Hostel / Dormitory,4151.0,0,6,Yes,1.4,1,5.0,4,4.6,8.9,4.7,7.3,6.7,24.3,Budget Constraints
+YA0370,19,Male,Undergraduate Student,Hostel / Dormitory,4161.0,0,5,Occasionally,1.7,0,4.0,5,4.5,9.4,1.8,4.3,6.0,27.8,Budget Constraints
+YA0371,20,Female,Undergraduate Student,Hostel / Dormitory,2626.0,2,3,Occasionally,3.8,1,3.0,3,5.0,8.4,3.3,4.1,7.1,23.8,Budget Constraints
+YA0372,19,Male,Undergraduate Student,With Parents / Family,2853.0,7,3,Yes,1.9,2,4.0,4,4.7,9.7,1.5,8.7,3.3,24.1,Food Delivery Apps Accessibility
+YA0373,18,Male,Undergraduate Student, With Parents / Family ,6045.0,6,2,Occasionally,1.3,3,4.0,3,5.7,10.9,0.7,3.4,7.6,21.1,Lack of Time / Academic Load
+YA0374,22,Female,Postgraduate Student,Hostel / Dormitory,5902.0,0,4,No,4.2,0,3.0,3,5.7,11.0,5.0,2.4,10.0,20.6,Lack of Cooking Skills / Equipment
+YA0375,18,Male,Undergraduate Student,With Parents / Family,3833.0,6,1,Yes,2.6,4,6.0,2,5.9,7.3,5.5,4.8,7.2,24.2,Lack of Cooking Skills / Equipment
+YA0376,19,Female,Undergraduate Student,Hostel / Dormitory,4442.0,0,2,No,3.4,1,3.0,3,4.7,10.0,3.2,5.4,7.2,21.1,Lack of Time / Academic Load
+YA0377,26,Male,Working Professional,Shared Apartment,12235.0,4,3,No,1.9,2,4.0,4,4.8,6.5,0.0,6.5,7.9,25.5,Lack of Time / Academic Load
+YA0378,19,Male,Undergraduate Student,Hostel / Dormitory,3309.0,0,6,Occasionally,2.3,0,3.0,3,5.1,8.9,7.1,4.4,8.1,25.4,Budget Constraints
+YA0379,25,Non-binary / Other,Working Professional,With Parents / Family,7018.0,5,0,Occasionally,3.1,5,3.0,3,6.3,10.8,2.3,6.2,6.6,25.9,Food Delivery Apps Accessibility
+YA0380,21,Male,Undergraduate Student,Living Independently,4717.0,5,2,Yes,2.4,3,3.0,1,5.9,5.0,5.2,5.8,6.8,22.2,Budget Constraints
+YA0381,18,Female,Undergraduate Student,Shared Apartment,5458.0,2,3,Yes,2.3,0,3.0,3,4.6,9.0,2.3,5.0,7.0,20.3,Lack of Time / Academic Load
+YA0382,21,Male,Postgraduate Student,Hostel / Dormitory,6007.0,0,4,No,2.7,0,3.0,4,7.3,4.2,5.1,6.4,8.7,30.4,Lack of Time / Academic Load
+YA0383,24,Male,Postgraduate Student,Shared Apartment,6805.0,4,2,Yes,2.3,0,5.0,4,5.9,10.1,2.2,5.9,5.5,19.1,Lack of Time / Academic Load
+YA0384,22,Male,Working Professional,Shared Apartment,6025.0,3,4,No,1.2,1,5.0,4,6.7,7.9,0.9,5.5,8.8,20.7,Budget Constraints
+YA0385,25,Female,Working Professional,Living Independently,6345.0,3,2,No,3.0,2,5.0,3,6.2,5.7,1.7,8.3,9.1,26.4,Food Delivery Apps Accessibility
+YA0386,26,Male,Working Professional,With Parents / Family,9220.0,5,1,Yes,2.8,3,3.0,4,4.7,7.9,2.8,8.7,7.6,18.6,Lack of Cooking Skills / Equipment
+YA0387,19,Female,Undergraduate Student,Hostel / Dormitory,3495.0,0,4,Yes,3.7,0,4.0,5,5.2,9.7,4.3,6.8,7.1,18.8,Irregular Work / Study Hours
+YA0388,20,Male,Undergraduate Student,Shared Apartment,4376.0,1,2,Yes,2.4,2,3.0,4,5.7,11.7,0.0,9.1,4.3,25.2,Lack of Cooking Skills / Equipment
+YA0389,26,Female,Working Professional,With Parents / Family,10309.0,6,0,Occasionally,1.9,3,3.0,1,5.0,7.1,0.0,6.1,7.0,20.3,Food Delivery Apps Accessibility
+YA0390,23,Male,Working Professional,Hostel / Dormitory,6173.0,0,4,No,2.3,1,3.0,5,6.0,5.0,1.0,10.0,7.2,26.1,None (Satisfied with Diet)
+YA0391,23,female,Freelancer / Job Seeker, With Parents / Family ,2072.0,5,2,No,2.9,4,1.0,5,7.4,5.7,0.7,6.1,8.8,27.9,Budget Constraints
+YA0392,21,Female,Undergraduate Student,Hostel / Dormitory,6428.0,0,4,Occasionally,2.3,1,3.0,5,6.2,5.8,3.9,5.0,7.1,21.7,Food Delivery Apps Accessibility
+YA0393,21,Female,Undergraduate Student,Shared Apartment,3611.0,2,4,Yes,3.9,0,4.0,5,3.5,11.7,5.6,5.2,7.9,21.1,Budget Constraints
+YA0394,23,Female,Working Professional,With Parents / Family,8679.0,7,1,Occasionally,4.2,5,4.0,3,6.3,3.6,4.3,5.5,9.1,22.7,Food Delivery Apps Accessibility
+YA0395,19,Female,Undergraduate Student,With Parents / Family,3584.0,6,1,Yes,3.1,2,3.0,4,3.5,12.2,4.0,8.2,3.5,21.6,Irregular Work / Study Hours
+YA0396,21,Female,Freelancer / Job Seeker,With Parents / Family,5718.0,7,2,No,2.7,2,2.0,4,7.0,3.8,3.5,4.0,7.9,20.5,Food Delivery Apps Accessibility
+YA0397,24,Male,Working Professional,With Parents / Family,6636.0,6,1,No,3.6,4,3.0,3,5.9,6.3,3.1,4.8,7.6,21.8,Lack of Cooking Skills / Equipment
+YA0398,20,Male,Undergraduate Student,Hostel / Dormitory,4715.0,0,5,No,1.4,2,0.0,5,6.2,6.9,0.6,2.9,8.4,26.2,Lack of Time / Academic Load
+YA0399,25,Female,Working Professional,With Parents / Family,7488.0,6,1,Occasionally,1.5,5,3.0,3,6.2,7.6,0.0,5.5,6.9,23.1,Lack of Time / Academic Load
+YA0400,25,Female,Working Professional,Shared Apartment,4209.0,2,5,Yes,2.7,2,4.0,4,4.9,4.9,4.0,7.5,7.6,26.5,Lack of Time / Academic Load
+YA0401,20,Female,Undergraduate Student,Shared Apartment,5153.0,1,3,Yes,2.0,0,4.0,1,5.3,6.7,0.0,5.7,7.7,25.8,Budget Constraints
+YA0402,22,Male,Working Professional,Shared Apartment,9632.0,1,4,Yes,2.1,2,5.0,5,3.5,11.7,0.0,9.7,4.6,19.6,Lack of Time / Academic Load
+YA0403,23,Male,Postgraduate Student,Hostel / Dormitory,3037.0,1,2,Yes,2.2,0,3.0,4,6.4,7.1,1.6,5.3,7.6,21.6,Lack of Time / Academic Load
+YA0404,24,Male,Working Professional,With Parents / Family,7098.0,6,0,No,2.6,3,3.0,4,6.2,11.0,1.1,7.8,8.0,24.2,Lack of Cooking Skills / Equipment
+YA0405,19,Female,Undergraduate Student,Hostel / Dormitory,2971.0,0,3,No,3.1,0,2.0,3,6.6,7.0,6.3,3.2,10.0,25.8,Lack of Time / Academic Load
+YA0406,26,Male,Working Professional,With Parents / Family,8827.0,7,1,Occasionally,1.4,3,4.0,1,5.3,8.9,0.3,4.6,6.8,22.2,Lack of Time / Academic Load
+YA0407,21,Male,Undergraduate Student,Hostel / Dormitory,3385.0,0,3,Occasionally,4.1,1,2.0,3,6.3,7.4,7.0,2.2,9.7,21.5,Lack of Time / Academic Load
+YA0408,19, Male ,Undergraduate Student,Hostel / Dormitory,4127.0,1,5,Yes,1.6,1,4.0,5,5.9,9.4,2.5,5.8,7.4,23.9,Lack of Time / Academic Load
+YA0409,23,Male,Working Professional,With Parents / Family,5884.0,5,1,Yes,2.4,4,4.0,5,5.0,5.7,2.0,7.6,7.1,19.0,Irregular Work / Study Hours
+YA0410,19,Female,Undergraduate Student,Hostel / Dormitory,,1,4,Yes,4.2,0,,4,3.8,7.7,4.4,8.4,4.6,28.4,Budget Constraints
+YA0411,18,Male,Undergraduate Student,Hostel / Dormitory,1762.0,0,3,Occasionally,3.1,1,3.0,3,5.3,5.2,2.9,4.9,6.7,21.8,Lack of Time / Academic Load
+YA0412,23,Female,Freelancer / Job Seeker,With Parents / Family,3325.0,6,1,Yes,2.9,4,3.0,3,7.8,5.5,1.2,5.2,8.2,20.4,Irregular Work / Study Hours
+YA0413,22,Male,Freelancer / Job Seeker,Hostel / Dormitory,2493.0,0,5,Occasionally,,1,2.0,2,6.4,4.6,4.7,5.3,8.0,25.8,Lack of Cooking Skills / Equipment
+YA0414,24,Male,Postgraduate Student,With Parents / Family,6670.0,7,2,Yes,2.9,3,4.0,3,6.2,8.5,5.6,8.0,8.0,19.4,Lack of Time / Academic Load
+YA0415,21,Male,Postgraduate Student,Hostel / Dormitory,4807.0,0,4,Occasionally,2.9,0,4.0,5,5.8,9.8,0.4,5.1,8.9,27.5,Lack of Cooking Skills / Equipment
+YA0416,21,Male,Undergraduate Student,Hostel / Dormitory,5640.0,1,4,Yes,2.9,1,2.0,4,5.2,12.8,1.9,5.1,7.8,22.4,Lack of Time / Academic Load
+YA0417,19,Male,Undergraduate Student,Shared Apartment,3964.0,1,5,Yes,1.8,0,4.0,3,4.0,8.5,,6.7,5.6,26.6,Food Delivery Apps Accessibility
+YA0418,20,Male,Undergraduate Student,Hostel / Dormitory,3300.0,0,7,Occasionally,4.5,0,3.0,4,4.9,9.2,7.8,5.3,7.5,23.5,Lack of Cooking Skills / Equipment
+YA0419,21,Female,Postgraduate Student,Hostel / Dormitory,5577.0,1,7,No,2.6,1,4.0,5,3.5,12.2,0.0,7.3,4.9,24.5,Lack of Time / Academic Load
+YA0420,22,Male,Working Professional, Shared Apartment ,5613.0,1,2,Yes,2.2,2,3.0,4,4.4,4.4,2.9,5.8,4.6,24.6,Food Delivery Apps Accessibility
+YA0421,23,Female,Working Professional,Shared Apartment,4814.0,1,2,Yes,2.5,3,3.0,4,6.3,3.9,0.0,6.6,8.4,20.7,Lack of Time / Academic Load
+YA0422,25,Female,Working Professional,With Parents / Family,9315.0,7,1,No,1.2,2,5.0,3,4.5,5.5,1.6,6.5,7.2,23.6,Lack of Time / Academic Load
+YA0423,18,Female,Undergraduate Student,Hostel / Dormitory,2991.0,0,3,No,2.8,0,2.0,2,8.3,5.8,5.8,1.0,10.0,22.7,Lack of Time / Academic Load
+YA0424,23,Male,Postgraduate Student,With Parents / Family,4608.0,5,1,Yes,3.7,3,2.0,3,6.8,10.2,1.3,8.6,5.9,19.7,Budget Constraints
+YA0425,21,Male,Undergraduate Student,With Parents / Family,4097.0,6,2,Occasionally,1.8,4,4.0,4,6.2,9.3,4.6,5.8,6.6,21.3,Lack of Time / Academic Load
+YA0426,23,Male,Postgraduate Student,Hostel / Dormitory,6050.0,0,2,Yes,2.0,0,,5,6.9,6.1,0.9,4.0,6.8,25.1,Lack of Time / Academic Load
+YA0427,20,Male,Undergraduate Student,With Parents / Family,4225.0,6,2,Yes,2.8,4,3.0,3,4.8,9.1,4.6,5.4,7.3,19.2,Budget Constraints
+YA0428,24,Non-binary / Other,Working Professional,Shared Apartment,10145.0,4,4,No,2.4,1,3.0,5,5.4,8.4,1.1,8.6,7.0,23.2,Lack of Time / Academic Load
+YA0429,18,Male,Undergraduate Student,Living Independently,5596.0,3,4,Occasionally,2.1,1,5.0,4,4.1,7.9,,5.1,6.1,23.3,Lack of Time / Academic Load
+YA0430,21,Male,Undergraduate Student,Hostel / Dormitory,4974.0,0,2,No,1.5,0,1.0,3,7.5,6.7,0.5,5.4,8.0,28.2,Lack of Cooking Skills / Equipment
+YA0431,19,Female,Undergraduate Student,Shared Apartment,3954.0,5,5,Occasionally,3.3,2,2.0,3,5.8,5.4,4.7,1.2,8.7,23.7,Lack of Time / Academic Load
+YA0432,26,Female,Working Professional,Shared Apartment,10690.0,3,1,Yes,2.9,2,3.0,3,5.2,5.6,2.3,5.1,5.2,23.4,Food Delivery Apps Accessibility
+YA0433,21,Female,Postgraduate Student,Hostel / Dormitory,8038.0,0,6,Occasionally,2.1,0,5.0,3,5.3,9.7,1.6,7.5,4.9,28.4,Lack of Time / Academic Load
+YA0434,18,Male,Undergraduate Student,Shared Apartment,2113.0,3,2,Yes,2.5,0,3.0,5,6.4,6.0,,8.3,5.5,20.1,Lack of Cooking Skills / Equipment
+YA0435,19,Male,Undergraduate Student,Shared Apartment,4151.0,2,4,Yes,2.6,2,4.0,5,4.1,10.4,3.1,5.5,6.5,23.9,Food Delivery Apps Accessibility
+YA0436,25,Female,Working Professional,Hostel / Dormitory,8570.0,1,7,No,1.1,1,5.0,3,7.4,6.9,0.0,6.0,9.1,27.1,Irregular Work / Study Hours
+YA0437,21, Male ,Undergraduate Student,Hostel / Dormitory,4671.0,1,4,No,2.8,3,3.0,4,3.5,8.7,5.2,6.8,5.9,20.7,Budget Constraints
+YA0438,24,Male,Working Professional,With Parents / Family,6776.0,6,3,Occasionally,3.7,5,5.0,2,3.7,11.3,1.9,6.8,4.1,22.8,Budget Constraints
+YA0439,25,Male,Working Professional,With Parents / Family,7610.0,4,2,No,1.9,3,3.0,3,6.0,7.5,0.0,5.5,10.0,26.7,Food Delivery Apps Accessibility
+YA0440,20,male,Undergraduate Student,Living Independently,5358.0,1,1,Occasionally,3.6,1,3.0,2,6.1,8.2,5.8,1.9,10.0,22.1,Lack of Time / Academic Load
+YA0441,20,Male,Undergraduate Student,With Parents / Family,1736.0,7,0,No,2.9,4,2.0,2,7.3,6.6,2.1,2.7,10.0,22.1,Lack of Time / Academic Load
+YA0442,20,Male,Freelancer / Job Seeker,Living Independently,4324.0,3,2,Yes,4.1,1,2.0,3,5.7,7.2,7.3,4.7,8.9,17.8,Lack of Cooking Skills / Equipment
+YA0443,19,Female,Undergraduate Student,Shared Apartment,2509.0,3,2,Yes,2.2,0,2.0,4,6.1,6.7,0.8,5.2,7.3,18.2,Lack of Time / Academic Load
+YA0444,21,Female,Undergraduate Student,Hostel / Dormitory,4155.0,0,7,No,2.3,1,4.0,4,5.4,10.8,1.7,6.5,6.3,28.1,Budget Constraints
+YA0445,26,Female,Working Professional,Shared Apartment,9395.0,3,2,Occasionally,1.5,1,5.0,3,3.5,10.1,2.9,8.2,4.9,26.4,Lack of Time / Academic Load
+YA0446,20,Male,Freelancer / Job Seeker,With Parents / Family,6648.0,6,0,No,3.1,5,2.0,2,6.2,7.1,4.9,4.3,10.0,26.7,Lack of Time / Academic Load
+YA0447,23,Male,Freelancer / Job Seeker,With Parents / Family,4276.0,7,1,Yes,2.3,3,2.0,3,5.5,6.1,0.0,4.0,6.9,22.2,Lack of Cooking Skills / Equipment
+YA0448,26,Male,Working Professional,Hostel / Dormitory,8797.0,1,4,Occasionally,1.7,1,4.0,5,6.4,9.4,3.6,7.4,7.6,23.1,Food Delivery Apps Accessibility
+YA0449,19,Female,Undergraduate Student,Hostel / Dormitory,5982.0,1,2,Occasionally,2.1,1,4.0,3,4.2,9.6,3.5,4.2,10.0,19.4,Budget Constraints
+YA0450,19,Female,Undergraduate Student,Living Independently,5388.0,1,2,No,2.6,0,2.0,2,6.0,7.2,3.0,2.0,10.0,19.7,Lack of Time / Academic Load
+YA0451,24,Male,Working Professional,With Parents / Family,6135.0,6,3,Yes,3.3,4,4.0,2,5.5,8.5,4.0,3.8,8.5,19.4,Budget Constraints
+YA0452,21,Female,Postgraduate Student,Hostel / Dormitory,5693.0,1,5,Yes,2.7,2,,4,3.5,9.8,2.6,5.9,5.4,29.9,Lack of Time / Academic Load
+YA0453,20,Male,Undergraduate Student,Hostel / Dormitory,1807.0,1,2,Yes,3.4,0,3.0,3,5.7,5.8,3.9,3.8,7.3,24.1,Lack of Cooking Skills / Equipment
+YA0454,22,Female,Working Professional,Shared Apartment,5625.0,1,4,Yes,2.9,0,3.0,3,5.6,8.8,1.5,5.2,6.1,25.8,Food Delivery Apps Accessibility
+YA0455,19,Female,Undergraduate Student,Hostel / Dormitory,2841.0,0,4,Yes,3.3,3,5.0,5,4.4,12.4,8.7,5.7,7.8,22.7,Food Delivery Apps Accessibility
+YA0456,22,Female,Postgraduate Student,Hostel / Dormitory,3861.0,0,3,Occasionally,2.9,3,4.0,3,5.2,8.7,5.6,5.3,9.7,20.5,None (Satisfied with Diet)
+YA0457,19,Female,Undergraduate Student,Hostel / Dormitory,3954.0,0,4,Occasionally,1.2,3,3.0,3,8.6,6.0,0.4,5.4,7.2,22.0,Food Delivery Apps Accessibility
+YA0458,21,Female,Postgraduate Student,With Parents / Family,3052.0,6,0,Occasionally,2.1,2,4.0,3,4.9,7.7,1.7,6.2,7.1,16.4,Lack of Time / Academic Load
+YA0459,19,Male,Undergraduate Student,Hostel / Dormitory,2698.0,0,4,No,3.8,1,1.0,4,8.1,5.8,5.3,4.1,9.6,20.9,Food Delivery Apps Accessibility
+YA0460,18,Female,Undergraduate Student,With Parents / Family,4496.0,4,0,Occasionally,1.8,3,4.0,4,5.3,8.1,0.1,4.3,8.8,23.6,Lack of Time / Academic Load
+YA0461,20,Male,Undergraduate Student,With Parents / Family,4175.0,5,2,No,3.6,3,3.0,3,6.5,5.6,2.8,6.0,7.1,28.3,Lack of Time / Academic Load
+YA0462,21,Female,Postgraduate Student,Hostel / Dormitory,6411.0,0,2,Yes,2.4,1,3.0,3,3.6,9.6,0.3,7.2,5.2,26.0,Lack of Time / Academic Load
+YA0463,24,Female,Working Professional,With Parents / Family,11611.0,6,0,No,3.4,3,4.0,4,7.0,4.8,3.2,6.3,10.0,21.4,Food Delivery Apps Accessibility
+YA0464,21,Female,Postgraduate Student,Hostel / Dormitory,6366.0,0,7,Occasionally,1.1,0,5.0,3,5.1,10.2,0.2,6.3,6.1,27.4,Food Delivery Apps Accessibility
+YA0465,22,Male,Freelancer / Job Seeker, Living Independently ,4730.0,3,2,No,2.4,1,4.0,1,6.7,4.8,3.9,3.7,7.4,16.2,Budget Constraints
+YA0466,19,Female,Undergraduate Student,Hostel / Dormitory,5115.0,0,3,Yes,2.8,0,5.0,5,4.3,8.2,2.7,10.0,3.6,21.6,Lack of Time / Academic Load
+YA0467,20,Female,Undergraduate Student,Shared Apartment,5102.0,2,3,Occasionally,3.7,1,2.0,4,6.8,10.1,3.2,5.8,7.8,18.9,Lack of Time / Academic Load
+YA0468,23, Female ,Working Professional,With Parents / Family,5203.0,5,0,Occasionally,2.2,4,3.0,4,4.5,8.0,0.0,6.2,8.9,26.4,Budget Constraints
+YA0469,20, Male ,Undergraduate Student,Hostel / Dormitory,5222.0,0,5,Yes,3.1,0,4.0,5,3.9,8.9,2.6,6.4,4.8,20.8,Budget Constraints
+YA0470,24,Male,Freelancer / Job Seeker,Shared Apartment,2844.0,3,3,Occasionally,2.7,0,4.0,3,8.0,7.4,0.0,4.2,7.5,26.2,Food Delivery Apps Accessibility
+YA0471,18,Male,Undergraduate Student,Shared Apartment,3393.0,1,3,No,2.5,2,3.0,3,4.2,8.9,1.7,5.1,8.5,24.9,Irregular Work / Study Hours
+YA0472,24,Male,Freelancer / Job Seeker,With Parents / Family,4388.0,6,1,Yes,2.2,3,2.0,4,4.3,7.4,1.0,5.8,7.9,25.5,Food Delivery Apps Accessibility
+YA0473,21, Female ,Undergraduate Student,Hostel / Dormitory,4660.0,0,3,Yes,3.2,1,4.0,3,4.8,8.1,,5.1,6.1,20.7,Budget Constraints
+YA0474,22,Male,Working Professional, With Parents / Family ,6342.0,5,1,No,1.8,3,5.0,2,5.2,9.2,2.2,8.6,9.4,21.9,Food Delivery Apps Accessibility
+YA0475,21,Non-binary / Other,Postgraduate Student,Hostel / Dormitory,4890.0,0,3,Yes,,2,4.0,5,4.6,6.8,2.0,7.7,3.2,29.4,Lack of Time / Academic Load
+YA0476,21,Male,Freelancer / Job Seeker,With Parents / Family,3996.0,6,1,No,3.3,3,2.0,3,5.5,6.7,4.3,4.5,10.0,21.1,Lack of Cooking Skills / Equipment
+YA0477,21,male,Undergraduate Student,Hostel / Dormitory,3359.0,0,3,Yes,1.8,1,1.0,1,6.8,8.5,1.6,3.3,8.1,25.2,Lack of Time / Academic Load
+YA0478,21,Female,Postgraduate Student,With Parents / Family,4874.0,5,2,Occasionally,2.2,3,3.0,4,4.6,8.7,0.0,7.0,7.0,17.2,Lack of Time / Academic Load
+YA0479,23,Female,Freelancer / Job Seeker,Shared Apartment,5292.0,3,2,Yes,2.2,0,4.0,4,5.0,11.0,2.5,5.0,7.4,24.9,Budget Constraints
+YA0480,22,Male,Postgraduate Student,Hostel / Dormitory,6797.0,1,4,Yes,1.4,3,3.0,5,5.2,7.7,0.0,10.0,4.4,20.9,None (Satisfied with Diet)
+YA0481,22,Female,Postgraduate Student,Hostel / Dormitory,5500.0,0,5,Occasionally,3.5,2,6.0,5,3.5,10.2,2.4,8.3,5.5,26.8,None (Satisfied with Diet)
+YA0482,24,Female,Postgraduate Student,Hostel / Dormitory,5669.0,0,4,Occasionally,1.4,1,1.0,5,6.8,8.2,2.7,2.3,10.0,22.8,Lack of Cooking Skills / Equipment
+YA0483,22,Male,Postgraduate Student,Shared Apartment,5405.0,2,3,Yes,1.7,1,,3,3.5,11.5,0.0,9.1,4.1,28.5,Budget Constraints
+YA0484,23,Non-binary / Other,Postgraduate Student,Hostel / Dormitory,5412.0,0,4,Yes,2.7,2,4.0,4,3.8,10.5,0.0,6.0,5.9,22.8,Budget Constraints
+YA0485,23,Non-binary / Other,Postgraduate Student,With Parents / Family,6504.0,4,2,Yes,2.8,4,3.0,3,5.5,10.0,1.5,5.2,5.3,23.9,Budget Constraints
+YA0486,23,Female,Working Professional,Hostel / Dormitory,7355.0,2,4,Occasionally,3.0,1,4.0,4,3.5,8.8,,7.2,5.2,21.1,Budget Constraints
+YA0487,20,Male,Undergraduate Student,Hostel / Dormitory,4252.0,0,6,Occasionally,4.2,0,3.0,5,4.3,11.9,5.1,6.4,6.7,27.2,Lack of Time / Academic Load
+YA0488,18,Female,Undergraduate Student,Hostel / Dormitory,,0,3,Occasionally,3.2,1,1.0,4,6.1,8.4,1.2,5.2,9.7,20.6,Food Delivery Apps Accessibility
+YA0489,20,Male,Freelancer / Job Seeker,Hostel / Dormitory,4120.0,1,6,Yes,2.9,2,2.0,5,5.8,8.1,4.7,6.5,8.1,21.8,Lack of Time / Academic Load
+YA0490,25,Male,Working Professional,Shared Apartment,5145.0,2,4,No,1.4,2,5.0,5,4.9,5.7,0.3,6.1,6.1,24.5,Food Delivery Apps Accessibility
+YA0491,22,Male,Postgraduate Student,Hostel / Dormitory,3545.0,0,3,No,1.8,1,5.0,4,3.8,9.0,1.5,7.8,5.4,29.8,None (Satisfied with Diet)
+YA0492,21,Male,Postgraduate Student,Shared Apartment,4995.0,3,4,Yes,1.8,0,3.0,4,5.9,6.8,3.0,5.7,7.8,31.2,Budget Constraints
+YA0493,19,female,Undergraduate Student,Hostel / Dormitory,5998.0,0,4,No,2.5,2,3.0,4,7.3,7.5,4.1,4.7,7.0,22.0,Lack of Time / Academic Load
+YA0494,19,Female,Undergraduate Student,Shared Apartment,3966.0,1,3,No,1.5,0,3.0,3,5.3,7.9,5.0,5.1,9.1,26.6,Budget Constraints
+YA0495,24,Female,Postgraduate Student,Shared Apartment,2535.0,5,1,Yes,3.0,2,3.0,3,4.2,10.6,0.4,7.3,6.8,22.7,Lack of Time / Academic Load
+YA0496,21,Male,Undergraduate Student,Hostel / Dormitory,5333.0,0,4,Occasionally,3.0,3,1.0,5,6.4,8.2,2.3,4.6,9.5,20.0,Lack of Time / Academic Load
+YA0497,24,Male,Postgraduate Student,Hostel / Dormitory,6529.0,0,3,Yes,2.6,1,3.0,4,3.7,11.0,0.0,6.3,5.4,26.4,Lack of Time / Academic Load
+YA0498,18,Male,Undergraduate Student,Living Independently,3464.0,2,3,No,3.6,2,2.0,3,6.9,8.0,4.5,4.7,7.6,23.3,Irregular Work / Study Hours
+YA0499,23,Non-binary / Other,Freelancer / Job Seeker,With Parents / Family,5760.0,5,1,Yes,1.5,5,2.0,2,5.5,8.4,0.0,4.6,6.0,23.0,Lack of Time / Academic Load
+YA0500,20,Male,Freelancer / Job Seeker, With Parents / Family ,6936.0,7,2,Yes,3.0,2,2.0,3,5.8,8.3,6.9,7.2,7.3,20.9,Lack of Cooking Skills / Equipment
+YA0501,24,Female,Postgraduate Student,Hostel / Dormitory,4463.0,0,3,Yes,2.6,2,1.0,4,4.3,10.7,2.1,5.6,7.2,22.4,Lack of Time / Academic Load
+YA0502,21,Female,Postgraduate Student,With Parents / Family,6198.0,6,1,Occasionally,2.8,4,4.0,3,3.5,7.3,1.6,8.0,4.7,20.7,Lack of Time / Academic Load
+YA0503,19,Male,Undergraduate Student,With Parents / Family,4383.0,6,2,No,2.9,3,1.0,3,6.4,6.2,4.3,2.3,10.0,22.0,Lack of Cooking Skills / Equipment
+YA0504,25,Female,Working Professional,With Parents / Family,14663.0,6,0,No,1.6,4,3.0,2,3.5,6.5,1.2,6.5,5.0,20.9,Lack of Time / Academic Load
+YA0505,22,Male,Postgraduate Student,Living Independently,5900.0,1,1,Occasionally,1.8,3,4.0,4,4.7,9.5,0.5,7.5,7.8,24.6,Food Delivery Apps Accessibility
+YA0506,19,Female,Undergraduate Student,Hostel / Dormitory,3384.0,0,6,Yes,2.5,1,4.0,5,4.9,7.7,0.0,8.1,4.7,26.9,Lack of Time / Academic Load
+YA0507,25,Female,Working Professional,Hostel / Dormitory,12483.0,1,3,Yes,2.6,2,3.0,5,4.5,8.6,4.6,9.6,5.5,26.8,Lack of Time / Academic Load
+YA0508,24,Male,Working Professional,With Parents / Family,8101.0,4,0,No,2.9,4,3.0,3,4.8,5.8,0.0,6.7,8.1,22.5,Food Delivery Apps Accessibility
+YA0509,23,Male,Freelancer / Job Seeker,With Parents / Family,4755.0,6,1,No,3.3,3,1.0,2,6.2,3.4,1.3,4.3,10.0,22.5,Food Delivery Apps Accessibility
+YA0510,23,Female,Working Professional,Shared Apartment,10967.0,5,2,Yes,2.3,0,3.0,4,3.5,8.0,7.3,8.0,6.6,22.2,Lack of Time / Academic Load
+YA0511,24,Female,Postgraduate Student, Hostel / Dormitory ,3692.0,0,5,Occasionally,2.2,2,2.0,5,3.5,9.3,1.1,6.3,8.5,30.1,Food Delivery Apps Accessibility
+YA0512,21,Male,Undergraduate Student,Hostel / Dormitory,6739.0,0,5,Yes,2.5,1,4.0,5,5.1,4.5,5.2,6.2,4.1,19.2,Lack of Time / Academic Load
+YA0513,25,Female,Freelancer / Job Seeker,Shared Apartment,3286.0,3,5,No,3.3,0,3.0,4,4.6,8.0,4.9,5.7,7.6,26.6,Irregular Work / Study Hours
+YA0514,23,Female,Working Professional,With Parents / Family,5299.0,6,1,Yes,2.1,4,3.0,3,4.6,3.7,0.7,8.6,5.7,26.0,Lack of Time / Academic Load
+YA0515,18,Female,Undergraduate Student,Shared Apartment,4054.0,4,3,Yes,2.4,0,1.0,4,3.5,8.6,1.6,8.4,3.8,25.6,Lack of Cooking Skills / Equipment
+YA0516,18,Male,Undergraduate Student,Hostel / Dormitory,4460.0,0,4,No,4.1,1,4.0,5,3.5,11.4,6.1,5.5,7.7,18.3,Lack of Time / Academic Load
+YA0517,19,Female,Undergraduate Student,Hostel / Dormitory,3604.0,0,4,Yes,2.7,0,5.0,4,4.2,7.9,4.2,6.5,6.6,23.9,Lack of Time / Academic Load
+YA0518,25,Female,Working Professional,Hostel / Dormitory,9618.0,1,3,No,2.9,0,6.0,3,5.2,7.7,4.6,8.2,7.9,20.4,None (Satisfied with Diet)
+YA0519,20,Male,Freelancer / Job Seeker,Shared Apartment,5797.0,3,2,Yes,1.9,3,3.0,3,7.5,5.8,4.8,4.7,7.8,22.6,Lack of Time / Academic Load
+YA0520,18,Male,Undergraduate Student,Shared Apartment,4083.0,3,2,Yes,1.9,1,3.0,3,5.4,5.7,0.7,5.9,7.5,25.5,Lack of Time / Academic Load
+YA0521,24,Non-binary / Other,Postgraduate Student,Living Independently,4027.0,3,1,Yes,1.7,0,4.0,2,5.0,9.4,0.3,6.2,5.6,20.8,Budget Constraints
+YA0522,21,Male,Undergraduate Student,With Parents / Family,4914.0,4,3,Occasionally,1.9,3,4.0,3,5.1,7.8,1.6,6.8,7.2,27.9,Lack of Cooking Skills / Equipment
+YA0523,22,Female,Freelancer / Job Seeker,Hostel / Dormitory,2573.0,0,5,Yes,2.8,0,5.0,5,4.6,4.1,0.0,8.6,4.8,27.3,Irregular Work / Study Hours
+YA0524,25,Male,Working Professional,Living Independently,7326.0,4,1,Yes,2.0,0,3.0,3,4.9,8.3,3.0,8.5,6.8,17.2,Lack of Time / Academic Load
+YA0525,23,Male,Working Professional,With Parents / Family,6745.0,5,1,Yes,2.2,3,2.0,3,7.1,7.2,0.0,4.7,7.7,23.7,Irregular Work / Study Hours
+YA0526,22,Female,Postgraduate Student,With Parents / Family,5260.0,5,1,Yes,1.4,2,3.0,3,4.8,8.8,0.0,5.1,6.0,22.2,Food Delivery Apps Accessibility
+YA0527,20,Male,Undergraduate Student,Hostel / Dormitory,3948.0,1,5,No,1.8,1,4.0,5,3.7,9.9,0.2,5.4,5.0,29.3,Food Delivery Apps Accessibility
+YA0528,18,Female,Undergraduate Student,Hostel / Dormitory,5107.0,0,4,Yes,3.0,1,3.0,5,5.8,6.2,4.0,5.7,7.8,21.8,Irregular Work / Study Hours
+YA0529,18,Male,Undergraduate Student,Hostel / Dormitory,3678.0,1,4,Occasionally,0.8,2,4.0,5,4.3,12.0,1.0,7.2,4.8,25.6,Food Delivery Apps Accessibility
+YA0530,25,Female,Working Professional,Hostel / Dormitory,10983.0,0,3,Yes,1.6,0,4.0,2,3.5,9.6,1.5,8.3,5.1,24.4,Lack of Time / Academic Load
+YA0531,23,Male,Working Professional,Shared Apartment,8996.0,2,2,Occasionally,2.3,1,4.0,4,3.7,7.6,1.1,9.4,4.2,29.2,Budget Constraints
+YA0532,20,Male,Freelancer / Job Seeker,Shared Apartment,4494.0,5,5,Occasionally,1.9,1,4.0,5,5.4,8.3,4.3,6.7,7.7,22.1,Food Delivery Apps Accessibility
+YA0533,22,Female,Freelancer / Job Seeker,Shared Apartment,4024.0,1,1,No,2.2,2,1.0,3,6.1,4.5,2.2,4.0,9.4,16.2,Food Delivery Apps Accessibility
+YA0534,23,Male,Postgraduate Student,Shared Apartment,4254.0,3,5,Occasionally,2.1,2,3.0,4,6.5,12.9,0.0,5.6,7.9,23.4,Lack of Time / Academic Load
+YA0535,23,Female,Working Professional,Shared Apartment,8661.0,4,2,No,1.9,1,5.0,3,6.0,5.5,1.0,9.0,7.4,21.0,Lack of Time / Academic Load
+YA0536,22,Male,Freelancer / Job Seeker,Hostel / Dormitory,4835.0,1,4,Occasionally,3.0,2,3.0,4,4.1,9.6,4.1,3.4,7.8,29.0,Irregular Work / Study Hours
+YA0537,25,Female,Working Professional,Living Independently,4375.0,2,5,Yes,3.3,0,6.0,5,3.5,6.8,2.2,8.8,3.7,27.0,None (Satisfied with Diet)
+YA0538,21,Male,Undergraduate Student,With Parents / Family,4949.0,6,1,Occasionally,3.4,3,3.0,3,6.8,6.8,3.1,3.9,10.0,18.5,Lack of Time / Academic Load
+YA0539,23,Female,Postgraduate Student,With Parents / Family,4958.0,6,0,Yes,2.2,5,4.0,4,4.3,5.5,2.2,7.7,4.7,26.5,Lack of Time / Academic Load
+YA0540,21,Male,Undergraduate Student,Living Independently,3997.0,1,2,Yes,4.0,1,3.0,3,3.5,11.7,4.2,7.1,8.2,24.8,Lack of Time / Academic Load
+YA0541,24, Male ,Freelancer / Job Seeker,With Parents / Family,,6,0,Yes,2.9,4,1.0,2,7.4,10.2,3.0,5.6,8.8,22.7,Irregular Work / Study Hours
+YA0542,22,Male,Postgraduate Student,Living Independently,4808.0,1,2,Occasionally,2.1,1,3.0,3,6.0,8.4,0.9,5.8,6.9,22.2,Food Delivery Apps Accessibility
+YA0543,19,Male,Undergraduate Student,Hostel / Dormitory,4102.0,0,2,Yes,2.8,1,2.0,3,6.9,11.5,0.3,2.1,8.9,25.2,Lack of Cooking Skills / Equipment
+YA0544,24,Female,Postgraduate Student,Hostel / Dormitory,9195.0,0,5,Occasionally,2.8,1,1.0,5,3.7,10.7,0.1,6.6,6.4,23.0,Food Delivery Apps Accessibility
+YA0545,24,Male,Postgraduate Student,Hostel / Dormitory,5089.0,1,4,Occasionally,2.1,3,6.0,5,4.3,9.9,1.5,7.9,5.8,25.4,Lack of Time / Academic Load
+YA0546,21,female,Undergraduate Student,Hostel / Dormitory,2924.0,1,2,Occasionally,2.7,1,2.0,3,4.1,8.9,3.6,7.5,6.3,20.9,Lack of Time / Academic Load
+YA0547,19,Male,Undergraduate Student,Hostel / Dormitory,5131.0,0,4,Yes,3.2,0,4.0,5,5.9,11.5,5.2,6.3,6.9,29.0,Lack of Time / Academic Load
+YA0548,21,Male,Postgraduate Student,Shared Apartment,5737.0,2,2,Yes,1.7,2,6.0,3,4.3,7.1,0.3,6.6,5.5,24.0,Budget Constraints
+YA0549,21,Female,Postgraduate Student,With Parents / Family,4800.0,7,1,Occasionally,1.7,3,1.0,3,3.5,11.1,0.0,6.6,6.2,19.4,Lack of Time / Academic Load
+YA0550,23,Female,Working Professional,With Parents / Family,6746.0,7,0,Occasionally,2.8,4,3.0,2,6.1,5.8,1.4,2.6,10.0,22.8,Food Delivery Apps Accessibility
+YA0551,21,Male,Postgraduate Student,Hostel / Dormitory,8441.0,0,5,Occasionally,2.9,1,5.0,5,3.5,10.5,2.8,8.0,5.7,27.7,Lack of Time / Academic Load
+YA0552,23,Male,Working Professional,With Parents / Family,9685.0,4,1,Occasionally,3.8,4,1.0,2,5.4,6.3,2.7,5.4,9.8,26.9,Food Delivery Apps Accessibility
+YA0553,21,Male,Postgraduate Student,Shared Apartment,4172.0,1,3,Yes,2.5,2,5.0,5,4.8,9.6,2.9,10.0,3.6,19.3,Budget Constraints
+YA0554,23,Female,Postgraduate Student,Hostel / Dormitory,4975.0,1,3,No,2.5,1,2.0,3,6.6,5.4,2.1,4.8,9.7,25.8,Irregular Work / Study Hours
+YA0555,23,Female,Working Professional,With Parents / Family,8578.0,7,0,Occasionally,,5,2.0,3,5.4,7.4,1.6,7.7,7.2,19.4,Budget Constraints
+YA0556,18,Male,Undergraduate Student,Hostel / Dormitory,3819.0,0,5,Yes,2.7,1,5.0,5,4.9,8.7,4.5,4.4,6.9,22.5,Budget Constraints
+YA0557,21,Female,Undergraduate Student,Hostel / Dormitory,3804.0,0,3,Yes,0.8,3,3.0,5,4.7,9.4,2.8,7.1,4.2,23.4,Lack of Time / Academic Load
+YA0558,18,Female,Undergraduate Student,With Parents / Family,5191.0,4,1,Occasionally,3.0,3,0.0,2,6.8,6.2,3.5,2.0,8.0,24.3,Lack of Time / Academic Load
+YA0559,24,Female,Working Professional,Shared Apartment,8189.0,2,1,Occasionally,2.5,1,3.0,5,8.0,3.7,4.0,7.2,8.9,19.7,Food Delivery Apps Accessibility
+YA0560,23,Female,Postgraduate Student,Hostel / Dormitory,5297.0,0,3,Occasionally,3.3,1,4.0,2,5.7,9.8,2.5,5.9,5.8,22.9,Lack of Time / Academic Load
+YA0561,22,Male,Working Professional,Living Independently,7040.0,3,5,Occasionally,2.0,2,6.0,5,3.7,7.2,2.2,8.7,4.8,24.5,Food Delivery Apps Accessibility
+YA0562,18,Male,Undergraduate Student, Shared Apartment ,,3,3,Yes,2.2,1,4.0,3,5.7,12.0,1.4,7.1,7.0,22.6,Lack of Time / Academic Load
+YA0563,21,Male,Undergraduate Student,Hostel / Dormitory,2315.0,1,5,Yes,3.1,0,6.0,4,4.4,3.3,2.6,8.5,6.5,28.0,Budget Constraints
+YA0564,21,Male,Undergraduate Student,Hostel / Dormitory,4092.0,1,4,Yes,1.4,1,4.0,5,4.3,12.8,4.2,7.1,7.2,27.5,Lack of Time / Academic Load
+YA0565,18,FEMALE,Undergraduate Student,Hostel / Dormitory,3903.0,0,4,No,2.2,2,1.0,5,4.8,10.2,0.0,7.0,5.9,26.9,Lack of Time / Academic Load
+YA0566,21,Female,Postgraduate Student,Shared Apartment,4510.0,1,4,No,1.8,0,3.0,4,5.8,8.3,0.3,7.9,6.5,24.7,Budget Constraints
+YA0567,18,Male,Undergraduate Student,Hostel / Dormitory,2306.0,0,4,Yes,1.5,2,5.0,5,3.6,10.3,0.2,10.0,2.9,24.5,Lack of Time / Academic Load
+YA0568,18, Male ,Undergraduate Student,Hostel / Dormitory,4670.0,0,2,Occasionally,3.0,2,5.0,4,5.4,11.8,6.7,6.6,8.1,18.2,Budget Constraints
+YA0569,23,Male,Working Professional,Living Independently,8895.0,3,3,Yes,2.5,1,5.0,4,5.5,6.7,1.5,4.5,6.6,23.5,Irregular Work / Study Hours
+YA0570,18,Female,Undergraduate Student,Shared Apartment,5383.0,4,3,No,2.2,2,2.0,3,6.5,7.3,0.0,6.2,7.5,28.7,Lack of Cooking Skills / Equipment
+YA0571,24,Male,Postgraduate Student,Hostel / Dormitory,5878.0,1,3,Yes,3.7,3,3.0,2,3.9,9.3,3.0,6.4,7.1,25.3,None (Satisfied with Diet)
+YA0572,23,Male,Working Professional,With Parents / Family,6393.0,6,1,Yes,1.9,2,4.0,2,4.3,3.0,7.0,6.5,7.1,17.6,Lack of Cooking Skills / Equipment
+YA0573,18,Male,Undergraduate Student,Shared Apartment,2721.0,3,2,Yes,2.5,1,5.0,3,4.0,10.4,4.9,8.0,4.3,23.7,Lack of Cooking Skills / Equipment
+YA0574,23,Male,Postgraduate Student,Hostel / Dormitory,6291.0,0,4,Occasionally,4.0,1,3.0,4,6.0,9.6,3.2,7.3,7.3,20.3,Lack of Cooking Skills / Equipment
+YA0575,22,Non-binary / Other,Working Professional,Shared Apartment,,2,2,Occasionally,2.8,0,5.0,3,3.5,10.0,1.9,5.3,5.5,24.6,Lack of Cooking Skills / Equipment
+YA0576,20,Female,Freelancer / Job Seeker,With Parents / Family,3928.0,6,0,Occasionally,1.9,2,4.0,2,5.4,7.6,3.5,6.7,7.0,23.2,Food Delivery Apps Accessibility
+YA0577,21,Male,Undergraduate Student,Hostel / Dormitory,4312.0,0,3,Yes,2.3,2,3.0,4,7.3,7.2,3.5,4.7,10.0,25.7,Lack of Time / Academic Load
+YA0578,24,Female,Freelancer / Job Seeker,With Parents / Family,6131.0,6,1,Yes,2.9,3,4.0,3,4.0,8.0,2.4,4.9,6.6,21.5,Lack of Time / Academic Load
+YA0579,21,Female,Postgraduate Student,Hostel / Dormitory,7307.0,1,3,No,2.9,2,,2,3.6,8.2,2.0,6.8,7.1,29.1,Food Delivery Apps Accessibility
+YA0580,19,Female,Undergraduate Student,Hostel / Dormitory,5243.0,2,4,Yes,3.3,0,5.0,5,6.6,8.3,0.0,7.7,4.1,21.9,None (Satisfied with Diet)
+YA0581,24,Male,Postgraduate Student,Hostel / Dormitory,7430.0,0,5,No,1.7,1,5.0,5,3.5,9.6,1.8,9.6,4.5,23.2,Budget Constraints
+YA0582,21,Female,Freelancer / Job Seeker,Shared Apartment,2628.0,1,3,No,2.4,2,3.0,4,7.3,7.8,2.3,7.7,7.8,16.2,Food Delivery Apps Accessibility
+YA0583,23,Male,Postgraduate Student,Hostel / Dormitory,5553.0,0,4,Yes,2.6,2,3.0,4,5.4,11.6,1.1,7.5,4.6,18.0,Budget Constraints
+YA0584,18,Female,Undergraduate Student,Hostel / Dormitory,4595.0,0,3,Yes,2.6,0,3.0,2,4.4,8.9,3.4,5.9,4.8,25.1,Lack of Time / Academic Load
+YA0585,23,Male,Postgraduate Student,With Parents / Family,3761.0,6,1,Yes,1.9,4,2.0,3,6.7,7.7,0.0,5.8,6.2,18.8,Budget Constraints
+YA0586,19,Male,Undergraduate Student,Living Independently,3339.0,3,1,No,2.9,2,1.0,2,7.2,6.2,0.0,1.0,10.0,18.8,Lack of Cooking Skills / Equipment
+YA0587,18,Male,Undergraduate Student,With Parents / Family,4722.0,7,0,No,2.6,3,4.0,2,5.7,7.5,4.7,5.7,7.8,23.2,Budget Constraints
+YA0588,18,Female,Undergraduate Student,With Parents / Family,6191.0,4,0,Yes,3.1,5,4.0,2,5.4,9.3,3.5,4.3,9.1,24.2,Irregular Work / Study Hours
+YA0589,19,Male,Undergraduate Student,Hostel / Dormitory,1500.0,0,4,Yes,2.1,1,1.0,4,6.4,11.3,2.4,6.7,5.8,21.1,Lack of Time / Academic Load
+YA0590,19,Female,Undergraduate Student,Living Independently,3461.0,2,5,No,1.7,1,2.0,5,5.7,5.9,1.6,5.6,7.6,24.0,Lack of Cooking Skills / Equipment
+YA0591,19,female,Undergraduate Student,Hostel / Dormitory,5260.0,0,3,Yes,2.7,1,0.0,1,6.1,8.2,2.4,2.9,6.2,23.0,Lack of Time / Academic Load
+YA0592,22,Male,Postgraduate Student,Living Independently,4540.0,1,3,No,2.2,2,1.0,4,7.0,7.9,2.0,5.8,8.8,25.4,Budget Constraints
+YA0593,19,Female,Undergraduate Student,Living Independently,5216.0,5,3,Yes,2.9,0,3.0,2,5.6,5.9,2.7,4.8,6.4,23.3,Lack of Time / Academic Load
+YA0594,18,Male,Undergraduate Student,Shared Apartment,2791.0,3,4,No,4.3,0,3.0,5,4.8,10.5,4.8,7.1,7.6,23.0,Lack of Time / Academic Load
+YA0595,23,Female,Working Professional, Living Independently ,10851.0,3,2,Occasionally,2.3,1,5.0,4,3.5,6.6,1.0,8.8,6.5,24.9,None (Satisfied with Diet)
+YA0596,21,Male,Postgraduate Student,Shared Apartment,5507.0,3,2,Occasionally,1.4,1,4.0,3,4.1,11.4,1.5,9.0,6.2,25.6,Food Delivery Apps Accessibility
+YA0597,21,FEMALE,Postgraduate Student,Hostel / Dormitory,5174.0,0,5,Occasionally,2.4,1,2.0,4,5.9,8.0,0.2,5.3,7.7,25.7,Lack of Cooking Skills / Equipment
+YA0598,19,Female,Undergraduate Student,Hostel / Dormitory,3990.0,0,5,Occasionally,3.2,0,1.0,5,4.7,3.7,1.1,5.3,7.5,24.7,Lack of Cooking Skills / Equipment
+YA0599,19,Female,Undergraduate Student,Shared Apartment,4732.0,2,1,No,2.5,0,5.0,4,5.4,9.0,2.6,5.5,9.4,24.6,Lack of Time / Academic Load
+YA0600,21,Female,Undergraduate Student,Hostel / Dormitory,6002.0,1,6,Yes,3.7,1,2.0,5,4.9,8.9,4.9,3.9,6.6,25.3,Lack of Time / Academic Load
+YA0601,18,Male,Undergraduate Student,Shared Apartment,1500.0,3,4,No,2.9,0,4.0,4,6.0,7.3,0.3,7.7,5.6,20.2,Lack of Cooking Skills / Equipment
+YA0602,19,Female,Undergraduate Student,Living Independently,4097.0,4,2,No,2.7,2,4.0,3,4.7,7.0,2.8,6.3,8.1,22.6,Budget Constraints
+YA0603,19,Female,Undergraduate Student,Hostel / Dormitory,6507.0,0,3,Occasionally,1.5,1,3.0,3,3.9,6.9,1.5,2.1,7.6,25.4,Lack of Time / Academic Load
+YA0604,19,Female,Undergraduate Student,With Parents / Family,3774.0,7,0,Occasionally,2.4,3,3.0,3,6.9,8.7,4.0,6.5,8.9,22.4,Lack of Time / Academic Load
+YA0605,21,Male,Undergraduate Student,With Parents / Family,5677.0,7,0,Yes,2.9,2,4.0,1,6.9,9.2,4.6,2.6,8.9,24.1,Lack of Time / Academic Load
+YA0606,24,Female,Postgraduate Student,With Parents / Family,5961.0,7,1,No,2.2,4,2.0,3,6.8,8.0,2.8,5.6,9.1,18.8,Lack of Time / Academic Load
+YA0607,20,Female,Undergraduate Student,Living Independently,4505.0,1,4,No,4.1,0,5.0,5,6.1,3.8,5.7,3.8,8.9,21.9,Food Delivery Apps Accessibility
+YA0608,18,Female,Undergraduate Student,Shared Apartment,5865.0,3,3,No,1.7,0,4.0,3,4.1,12.4,2.2,6.3,7.0,21.8,Lack of Time / Academic Load
+YA0609,23,Male,Postgraduate Student,Living Independently,5463.0,2,3,Yes,2.1,2,2.0,4,4.5,9.2,0.0,6.1,5.2,23.0,Budget Constraints
+YA0610,22, Female ,Postgraduate Student,With Parents / Family,4901.0,6,0,Yes,1.9,2,3.0,4,3.5,11.2,0.2,8.2,6.4,27.7,Lack of Cooking Skills / Equipment
+YA0611,21,Male,Undergraduate Student,Hostel / Dormitory,5593.0,2,4,Occasionally,1.7,2,2.0,5,5.3,7.9,0.6,4.1,9.5,31.3,Lack of Cooking Skills / Equipment
+YA0612,25,Female,Working Professional,Shared Apartment,6433.0,4,4,Occasionally,0.9,1,3.0,4,3.5,8.0,0.0,5.8,6.1,26.8,Food Delivery Apps Accessibility
+YA0613,23,Male,Postgraduate Student,Shared Apartment,6275.0,4,2,Yes,1.9,0,4.0,2,3.5,9.0,0.0,4.7,7.1,21.2,Lack of Time / Academic Load
+YA0614,19,Female,Undergraduate Student,Hostel / Dormitory,5362.0,0,5,Yes,2.6,0,3.0,5,3.5,4.9,2.3,5.0,5.1,27.0,Food Delivery Apps Accessibility
+YA0615,24,Non-binary / Other,Working Professional,With Parents / Family,7555.0,4,0,No,2.8,5,4.0,3,6.9,4.6,0.8,8.1,10.0,22.6,Lack of Time / Academic Load
+YA0616,22,Male,Freelancer / Job Seeker,With Parents / Family,2290.0,6,0,Yes,2.8,3,2.0,2,7.6,3.0,5.9,5.3,8.3,19.9,Lack of Cooking Skills / Equipment
+YA0617,20,Non-binary / Other,Undergraduate Student,Hostel / Dormitory,1500.0,0,3,Yes,2.9,2,4.0,3,5.0,11.1,1.6,4.0,6.0,19.5,Lack of Cooking Skills / Equipment
+YA0618,18,Male,Undergraduate Student,Shared Apartment,3938.0,4,3,Yes,4.2,1,1.0,3,6.6,5.6,8.0,2.1,10.0,22.6,Lack of Time / Academic Load
+YA0619,26,Female,Working Professional,With Parents / Family,8032.0,6,1,No,2.0,2,2.0,4,5.3,3.0,1.8,6.5,9.0,23.1,Lack of Time / Academic Load
+YA0620,25,Female,Working Professional,Shared Apartment,7394.0,2,2,Yes,2.3,2,3.0,3,4.3,8.2,7.0,5.3,7.2,24.3,Lack of Time / Academic Load
+YA0621,19,Female,Undergraduate Student,Hostel / Dormitory,,0,5,Occasionally,2.4,0,,5,5.0,8.0,3.1,2.1,7.0,29.3,Lack of Cooking Skills / Equipment
+YA0622,20,Female,Undergraduate Student,Hostel / Dormitory,5824.0,0,2,Occasionally,1.9,0,2.0,4,4.8,11.4,0.0,6.8,7.8,23.7,Irregular Work / Study Hours
+YA0623,21,Female,Undergraduate Student,Hostel / Dormitory,3025.0,0,5,Yes,1.5,1,4.0,4,4.7,9.4,1.0,7.4,6.4,25.0,Lack of Time / Academic Load
+YA0624,22,Male,Postgraduate Student,With Parents / Family,4465.0,6,0,No,1.4,5,5.0,3,4.8,9.2,4.2,3.5,9.1,18.0,Lack of Cooking Skills / Equipment
+YA0625,24,Male,Postgraduate Student,Hostel / Dormitory,4479.0,0,3,No,2.9,0,3.0,3,6.2,6.0,1.5,7.0,6.7,21.0,Lack of Time / Academic Load
+YA0626,19,Female,Undergraduate Student,Shared Apartment,4487.0,1,4,No,3.2,2,1.0,4,7.0,6.6,4.3,4.8,9.1,22.1,Food Delivery Apps Accessibility
+YA0627,23,Female,Postgraduate Student,Hostel / Dormitory,5574.0,0,3,Yes,2.4,0,4.0,2,5.6,4.2,1.8,4.8,4.9,24.6,Lack of Time / Academic Load
+YA0628,26,Female,Working Professional,Shared Apartment,9612.0,4,2,Yes,2.5,2,3.0,2,5.6,6.4,1.5,6.6,8.1,19.3,Lack of Cooking Skills / Equipment
+YA0629,20,Female,Undergraduate Student,With Parents / Family,6822.0,7,1,Occasionally,2.6,4,1.0,3,8.8,7.9,4.0,1.0,10.0,24.1,Budget Constraints
+YA0630,19,Male,Undergraduate Student,Shared Apartment,2377.0,3,3,Occasionally,2.2,3,4.0,3,5.3,9.4,2.1,6.6,6.3,23.6,Lack of Time / Academic Load
+YA0631,25,Female,Working Professional,Hostel / Dormitory,10369.0,0,2,No,2.7,2,4.0,3,6.4,3.6,3.5,6.5,9.9,21.7,Lack of Time / Academic Load
+YA0632,25,Male,Working Professional,Shared Apartment,5968.0,2,1,Occasionally,3.8,2,,4,4.5,11.2,4.8,8.0,8.3,24.0,Lack of Cooking Skills / Equipment
+YA0633,22,Female,Postgraduate Student,Hostel / Dormitory,2929.0,0,2,Yes,2.3,1,4.0,4,4.4,10.4,1.0,8.2,5.5,23.2,Lack of Time / Academic Load
+YA0634,23,Male,Postgraduate Student,Shared Apartment,4830.0,4,3,Occasionally,3.3,1,2.0,4,5.2,7.5,4.1,6.8,7.9,22.8,Lack of Time / Academic Load
+YA0635,18,Male,Undergraduate Student,Shared Apartment,2995.0,4,1,Yes,1.3,1,3.0,2,4.7,9.0,0.0,6.4,5.5,25.2,Lack of Cooking Skills / Equipment
+YA0636,18,Male,Undergraduate Student,Hostel / Dormitory,4391.0,0,5,Occasionally,2.4,1,1.0,5,7.4,3.3,2.1,5.7,6.5,23.8,Lack of Time / Academic Load
+YA0637,24,Male,Postgraduate Student, Hostel / Dormitory ,4941.0,2,4,No,2.8,1,1.0,4,6.2,8.5,1.0,6.3,6.9,21.8,Budget Constraints
+YA0638,19,Female,Undergraduate Student,Hostel / Dormitory,6830.0,0,4,Yes,3.3,2,2.0,3,6.1,10.9,3.2,3.0,8.0,19.8,Food Delivery Apps Accessibility
+YA0639,21,Male,Undergraduate Student,With Parents / Family,4588.0,7,1,No,2.6,5,3.0,4,3.6,9.3,5.3,4.8,8.3,22.1,Lack of Cooking Skills / Equipment
+YA0640,19,Male,Undergraduate Student,Living Independently,2563.0,3,2,Occasionally,2.7,1,3.0,4,5.3,8.9,3.1,6.3,6.9,23.8,None (Satisfied with Diet)
+YA0641,18,Male,Undergraduate Student,Hostel / Dormitory,4229.0,0,4,Yes,2.9,2,4.0,5,4.1,9.5,4.8,5.3,5.8,20.5,Budget Constraints
+YA0642,20,Male,Undergraduate Student,With Parents / Family,6252.0,6,0,No,2.4,2,2.0,2,6.7,6.1,2.9,1.3,10.0,16.9,Lack of Cooking Skills / Equipment
+YA0643,19,Male,Undergraduate Student,Hostel / Dormitory,5292.0,0,5,Yes,2.6,0,3.0,4,4.2,10.7,2.0,9.3,5.0,27.1,Budget Constraints
+YA0644,18,Male,Undergraduate Student,Hostel / Dormitory,6348.0,1,3,No,2.6,1,2.0,2,6.1,7.2,1.7,4.7,10.0,19.1,Lack of Time / Academic Load
+YA0645,21,Female,Undergraduate Student,With Parents / Family,3596.0,6,2,Yes,1.7,3,3.0,5,3.5,12.6,0.0,7.1,3.5,25.9,Food Delivery Apps Accessibility
+YA0646,24,Female,Working Professional,Living Independently,10336.0,5,3,Occasionally,2.0,1,1.0,4,6.2,8.6,4.0,6.5,9.3,20.1,Lack of Cooking Skills / Equipment
+YA0647,24,Female,Postgraduate Student,Living Independently,4597.0,5,1,No,3.3,1,3.0,4,5.1,6.6,3.0,6.1,8.4,21.7,Lack of Time / Academic Load
+YA0648,24,Male,Postgraduate Student,Shared Apartment,4211.0,1,2,Yes,4.0,2,2.0,3,3.8,8.0,0.0,5.8,9.2,29.6,Food Delivery Apps Accessibility
+YA0649,22,Male,Working Professional,Shared Apartment,9321.0,3,1,Yes,0.8,3,2.0,4,4.1,9.1,0.6,3.9,4.3,18.4,Irregular Work / Study Hours
+YA0650,22,Female,Postgraduate Student,With Parents / Family,6985.0,7,2,No,2.5,4,2.0,2,7.2,6.7,0.0,5.5,9.6,19.2,Lack of Time / Academic Load
+YA0651,21,Female,Undergraduate Student,Hostel / Dormitory,5454.0,0,5,Occasionally,1.6,1,2.0,5,6.6,9.5,0.0,9.5,7.6,22.2,Lack of Time / Academic Load
+YA0652,23,Male,Postgraduate Student,Shared Apartment,5350.0,1,1,Occasionally,3.1,0,3.0,3,6.7,9.4,1.3,5.2,8.8,21.0,Lack of Cooking Skills / Equipment
+YA0653,22,Male,Postgraduate Student,Hostel / Dormitory,4438.0,0,3,Occasionally,1.7,1,0.0,4,6.3,8.3,,3.8,7.4,23.7,Lack of Time / Academic Load
+YA0654,25,Male,Working Professional,With Parents / Family,9971.0,6,0,Yes,1.7,3,3.0,3,5.3,7.6,0.0,6.5,8.4,24.8,Budget Constraints
+YA0655,20,Male,Undergraduate Student,Hostel / Dormitory,4748.0,0,5,No,2.7,2,3.0,5,7.3,5.7,0.0,7.6,9.3,31.9,Budget Constraints
+YA0656,18,Male,Undergraduate Student,Hostel / Dormitory,3839.0,0,4,No,2.1,1,5.0,5,4.0,9.6,5.2,4.4,9.1,30.1,Budget Constraints
+YA0657,20,Female,Undergraduate Student,With Parents / Family,4837.0,6,1,Occasionally,3.3,3,4.0,5,5.7,7.3,4.1,3.4,8.6,18.3,Food Delivery Apps Accessibility
+YA0658,19,Female,Undergraduate Student,Hostel / Dormitory,3694.0,0,5,Yes,3.0,0,4.0,5,5.1,9.5,6.3,7.2,5.7,27.3,Budget Constraints
+YA0659,23,Female,Postgraduate Student, Shared Apartment ,5412.0,5,2,No,2.8,1,3.0,3,4.5,12.7,3.3,9.6,6.2,23.0,Lack of Time / Academic Load
+YA0660,23,Female,Postgraduate Student,Hostel / Dormitory,5165.0,0,5,No,1.7,1,3.0,4,7.7,10.0,0.0,8.6,4.0,26.0,Food Delivery Apps Accessibility
+YA0661,18,Female,Undergraduate Student,Hostel / Dormitory,4027.0,0,7,Occasionally,2.3,1,3.0,5,4.6,8.8,4.9,7.2,7.5,25.5,Budget Constraints
+YA0662,22,Female,Freelancer / Job Seeker,Hostel / Dormitory,5892.0,0,4,Occasionally,2.3,1,4.0,5,4.8,7.4,4.4,4.1,6.5,29.6,Lack of Time / Academic Load
+YA0663,23,Female,Postgraduate Student,Hostel / Dormitory,5913.0,0,4,Yes,3.4,1,4.0,4,4.4,8.4,0.0,6.5,6.6,27.3,Lack of Cooking Skills / Equipment
+YA0664,21,Male,Undergraduate Student,With Parents / Family,1721.0,4,2,Occasionally,2.4,4,6.0,4,6.7,8.2,2.9,8.7,7.6,21.7,Lack of Time / Academic Load
+YA0665,21,Male,Undergraduate Student,Hostel / Dormitory,4641.0,1,2,Yes,3.1,1,3.0,3,7.3,6.6,5.4,2.2,10.0,21.1,Budget Constraints
+YA0666,19,Male,Undergraduate Student,Living Independently,2535.0,4,1,Occasionally,2.5,1,3.0,3,5.5,10.5,0.0,5.3,9.5,26.3,Budget Constraints
+YA0667,21,Female,Undergraduate Student,Shared Apartment,5238.0,4,2,Yes,2.7,1,3.0,5,4.2,14.5,0.0,8.0,6.3,17.0,Budget Constraints
+YA0668,21,Female,Undergraduate Student,Hostel / Dormitory,4316.0,0,4,No,3.0,3,2.0,3,6.2,6.2,1.5,3.0,8.4,21.2,Lack of Time / Academic Load
+YA0669,21,Male,Undergraduate Student,Shared Apartment,4241.0,3,1,No,2.8,1,4.0,4,5.1,10.9,1.6,8.7,7.1,20.9,Budget Constraints
+YA0670,21,Female,Undergraduate Student,Shared Apartment,,3,1,Yes,4.0,0,5.0,4,4.5,4.5,2.5,6.3,7.1,20.2,Budget Constraints
+YA0671,18, Male ,Undergraduate Student,With Parents / Family,3893.0,7,1,No,3.1,3,3.0,4,6.1,8.9,3.5,4.6,9.6,21.6,None (Satisfied with Diet)
+YA0672,25,Female,Working Professional,Shared Apartment,11150.0,2,2,No,1.9,0,4.0,4,4.0,8.2,0.6,5.8,8.9,24.0,Food Delivery Apps Accessibility
+YA0673,18,Male,Undergraduate Student,Hostel / Dormitory,2573.0,0,4,No,3.0,0,2.0,4,6.9,6.8,5.0,2.6,10.0,21.9,Food Delivery Apps Accessibility
+YA0674,21,Male,Postgraduate Student,With Parents / Family,5437.0,5,1,Yes,2.3,4,3.0,3,5.3,8.1,3.4,5.6,6.5,16.2,Lack of Time / Academic Load
+YA0675,21,Male,Undergraduate Student,With Parents / Family,2704.0,5,0,Yes,3.0,3,3.0,3,6.7,9.4,2.9,3.2,7.7,18.2,Food Delivery Apps Accessibility
+YA0676,20,Male,Freelancer / Job Seeker,Living Independently,4279.0,1,1,Occasionally,,0,4.0,4,3.9,8.2,0.0,8.2,6.6,23.3,Lack of Time / Academic Load
+YA0677,20,Male,Undergraduate Student,Hostel / Dormitory,4401.0,0,3,Occasionally,1.6,2,4.0,4,5.0,11.1,4.1,7.9,5.7,24.4,Lack of Time / Academic Load
+YA0678,20,Male,Undergraduate Student,With Parents / Family,,4,0,Yes,2.8,3,3.0,3,4.5,10.4,4.0,7.0,4.6,22.4,Lack of Cooking Skills / Equipment
+YA0679,25,female,Freelancer / Job Seeker,Shared Apartment,4511.0,4,4,Yes,3.3,2,3.0,4,5.6,5.9,4.6,6.4,6.3,21.2,Food Delivery Apps Accessibility
+YA0680,23,Female,Working Professional,Shared Apartment,7549.0,4,4,No,3.0,1,2.0,5,4.6,4.3,4.6,6.6,7.7,27.6,Lack of Time / Academic Load
+YA0681,23,Male,Working Professional,Shared Apartment,8833.0,1,3,No,2.3,0,5.0,3,4.8,13.2,0.1,7.4,6.9,21.6,Lack of Cooking Skills / Equipment
+YA0682,21,Female,Undergraduate Student,Shared Apartment,5406.0,3,5,Occasionally,2.8,1,4.0,3,5.9,7.9,5.5,5.4,8.4,18.6,Lack of Time / Academic Load
+YA0683,21,Female,Undergraduate Student,Hostel / Dormitory,5111.0,1,3,Yes,2.8,1,3.0,3,6.9,8.3,3.2,6.2,7.0,21.9,Food Delivery Apps Accessibility
+YA0684,22,Male,Postgraduate Student,Hostel / Dormitory,4940.0,1,5,No,3.1,1,3.0,4,5.6,8.1,2.5,6.5,5.3,25.8,Lack of Time / Academic Load
+YA0685,23,Male,Freelancer / Job Seeker, Living Independently ,2620.0,3,1,Yes,3.9,2,3.0,3,5.8,3.5,5.8,5.3,8.8,21.0,Food Delivery Apps Accessibility
+YA0686,22,Male,Postgraduate Student,Hostel / Dormitory,6756.0,0,2,Yes,,1,4.0,3,3.5,12.6,2.4,10.0,6.1,24.6,Lack of Cooking Skills / Equipment
+YA0687,23,Male,Postgraduate Student,Hostel / Dormitory,7523.0,2,5,Yes,1.4,0,4.0,5,4.0,13.9,1.1,8.8,3.3,29.0,Food Delivery Apps Accessibility
+YA0688,21,Female,Undergraduate Student,Hostel / Dormitory,4030.0,2,2,Yes,2.6,1,2.0,2,4.0,11.9,0.0,5.1,5.8,21.2,Budget Constraints
+YA0689,24,Male,Working Professional,Living Independently,9441.0,1,3,Yes,3.3,2,3.0,3,3.5,9.3,0.0,6.2,5.5,22.5,Food Delivery Apps Accessibility
+YA0690,18,Female,Undergraduate Student,Shared Apartment,5817.0,5,1,No,3.0,0,4.0,4,5.9,9.5,4.9,2.8,10.0,24.0,Lack of Cooking Skills / Equipment
+YA0691,20,Female,Undergraduate Student,Hostel / Dormitory,,0,3,No,2.7,3,3.0,3,6.4,5.8,0.9,5.0,7.4,17.7,Budget Constraints
+YA0692,20,Male,Undergraduate Student,With Parents / Family,5589.0,5,0,No,2.0,3,1.0,3,6.1,9.4,1.9,6.5,7.9,17.2,Lack of Time / Academic Load
+YA0693,22,Female,Postgraduate Student,With Parents / Family,7792.0,7,0,Yes,1.3,4,4.0,1,3.9,8.1,0.0,5.3,7.4,20.8,Food Delivery Apps Accessibility
+YA0694,20,Male,Undergraduate Student,Hostel / Dormitory,2245.0,0,2,Yes,3.3,0,3.0,4,4.1,10.7,5.6,7.5,7.0,26.5,Budget Constraints
+YA0695,21,Female,Undergraduate Student,Shared Apartment,,1,3,Yes,3.1,1,3.0,4,3.5,11.8,0.0,5.7,4.4,27.8,Budget Constraints
+YA0696,22,Male,Postgraduate Student,With Parents / Family,4709.0,5,1,No,3.9,4,2.0,3,7.3,5.7,3.6,4.3,10.0,24.0,Lack of Time / Academic Load
+YA0697,18,Female,Undergraduate Student,Shared Apartment,5280.0,2,5,No,2.6,0,2.0,3,7.7,6.0,7.6,2.7,10.0,20.6,Budget Constraints
+YA0698,24,Female,Postgraduate Student,Hostel / Dormitory,5727.0,0,4,Occasionally,2.7,2,3.0,5,5.4,10.6,0.0,9.1,5.6,25.7,Lack of Time / Academic Load
+YA0699,18,Male,Undergraduate Student,With Parents / Family,3661.0,6,0,Yes,2.9,3,1.0,2,6.6,9.8,4.8,3.1,10.0,20.4,Lack of Time / Academic Load
+YA0700,23,female,Postgraduate Student,Shared Apartment,5677.0,1,2,Yes,1.7,2,6.0,5,4.0,8.7,1.7,6.8,5.6,22.2,Lack of Time / Academic Load
+YA0701,24,Female,Postgraduate Student,Hostel / Dormitory,3335.0,0,6,Yes,2.1,0,3.0,5,4.5,8.7,0.0,7.3,3.6,26.2,Budget Constraints
+YA0702,21,Female,Undergraduate Student,Hostel / Dormitory,4962.0,0,3,Occasionally,1.7,1,4.0,4,3.5,8.0,0.0,7.9,3.4,23.4,Budget Constraints
+YA0703,18,Female,Undergraduate Student,Hostel / Dormitory,3998.0,0,4,No,4.0,0,2.0,3,5.9,12.3,3.3,1.1,10.0,29.9,Irregular Work / Study Hours
+YA0704,21,Female,Undergraduate Student,Hostel / Dormitory,4363.0,1,3,No,3.4,2,4.0,5,3.5,9.6,5.9,7.3,4.8,20.5,Food Delivery Apps Accessibility
+YA0705,21,Male,Undergraduate Student,With Parents / Family,3954.0,6,1,Occasionally,,3,3.0,2,5.8,9.0,2.9,4.7,7.8,26.6,Irregular Work / Study Hours
+YA0706,22,Male,Freelancer / Job Seeker,Hostel / Dormitory,4484.0,0,4,Yes,3.2,1,3.0,4,6.5,5.7,3.9,3.7,8.0,23.3,Lack of Time / Academic Load
+YA0707,18,Female,Undergraduate Student,Hostel / Dormitory,5034.0,0,4,No,3.9,0,2.0,4,3.5,11.3,5.1,5.7,7.1,25.1,Lack of Cooking Skills / Equipment
+YA0708,25,Male,Working Professional,With Parents / Family,7552.0,4,1,Yes,0.8,3,2.0,3,5.6,8.7,0.5,4.5,8.8,20.5,Food Delivery Apps Accessibility
+YA0709,19,Female,Undergraduate Student,Hostel / Dormitory,4588.0,1,7,Yes,3.7,1,4.0,5,4.7,6.5,1.0,8.5,6.1,26.6,Budget Constraints
+YA0710,22,Female,Postgraduate Student,Living Independently,4102.0,2,3,No,2.0,3,3.0,2,8.0,3.0,2.4,2.9,10.0,26.5,Lack of Time / Academic Load
+YA0711,24,Male,Working Professional,Shared Apartment,9265.0,3,3,Yes,2.4,2,4.0,3,3.7,9.7,3.1,6.8,8.0,29.3,Food Delivery Apps Accessibility
+YA0712,24,Male,Postgraduate Student,Hostel / Dormitory,4816.0,2,3,Occasionally,2.8,0,4.0,4,5.9,6.4,0.0,6.6,6.7,22.3,Budget Constraints
+YA0713,21,Female,Postgraduate Student,Hostel / Dormitory,3339.0,0,7,Occasionally,2.6,1,4.0,4,5.3,10.7,0.0,8.3,3.7,22.7,Lack of Time / Academic Load
+YA0714,21,Male,Undergraduate Student,Hostel / Dormitory,2601.0,0,2,Yes,2.4,1,6.0,3,5.8,8.6,2.9,5.3,9.6,19.8,Lack of Cooking Skills / Equipment
+YA0715,20,Female,Undergraduate Student,Hostel / Dormitory,5433.0,0,2,Occasionally,2.4,1,1.0,2,6.8,5.7,4.1,3.4,10.0,16.2,Lack of Time / Academic Load
+YA0716,25,Male,Freelancer / Job Seeker,With Parents / Family,4843.0,6,1,Yes,2.4,4,4.0,4,6.7,6.2,3.3,7.2,6.5,18.6,None (Satisfied with Diet)
+YA0717,22,Female,Working Professional,Living Independently,7850.0,1,2,Yes,3.2,0,3.0,4,3.5,6.4,5.6,8.9,4.9,16.2,Food Delivery Apps Accessibility
+YA0718,24,Male,Freelancer / Job Seeker,Shared Apartment,3100.0,5,5,No,1.4,2,2.0,4,7.0,5.7,0.9,6.0,7.5,24.4,Food Delivery Apps Accessibility
+YA0719,20,Female,Undergraduate Student,Shared Apartment,2677.0,3,2,Yes,2.1,0,5.0,5,3.5,9.2,3.1,9.4,4.4,20.9,Lack of Time / Academic Load
+YA0720,26,Male,Working Professional,With Parents / Family,4850.0,7,2,Yes,2.5,5,2.0,3,7.3,5.7,2.4,3.5,6.7,17.9,Irregular Work / Study Hours
+YA0721,24,Female,Freelancer / Job Seeker,With Parents / Family,1921.0,7,1,Yes,2.2,4,2.0,3,4.8,11.1,3.3,3.7,7.7,20.3,None (Satisfied with Diet)
+YA0722,19,Male,Undergraduate Student,Hostel / Dormitory,4633.0,0,3,Occasionally,3.6,0,4.0,2,4.5,7.8,0.0,7.9,6.1,29.3,Lack of Cooking Skills / Equipment
+YA0723,18,Female,Undergraduate Student,Hostel / Dormitory,3712.0,1,4,Yes,2.6,2,3.0,4,4.0,8.6,3.1,6.2,6.7,23.7,Budget Constraints
+YA0724,23,Female,Working Professional,Shared Apartment,9545.0,4,2,Occasionally,3.5,1,5.0,3,3.7,8.4,0.0,8.3,5.1,23.7,Irregular Work / Study Hours
+YA0725,24,Male,Postgraduate Student,Shared Apartment,3984.0,5,4,No,4.1,1,2.0,3,5.0,9.1,6.4,5.5,6.3,27.5,Budget Constraints
+YA0726,25,Male,Working Professional,With Parents / Family,9404.0,7,0,Occasionally,1.2,3,3.0,4,5.4,9.7,1.8,6.2,5.6,17.2,Lack of Time / Academic Load
+YA0727,19,Male,Undergraduate Student,Hostel / Dormitory,3267.0,0,4,Occasionally,1.4,2,3.0,5,5.7,8.8,0.0,4.2,5.9,16.2,Food Delivery Apps Accessibility
+YA0728,23,Female,Working Professional,Shared Apartment,3161.0,3,4,No,3.2,1,4.0,4,6.3,7.2,2.7,8.1,7.9,25.7,Lack of Time / Academic Load
+YA0729,20,Female,Undergraduate Student,With Parents / Family,3981.0,5,2,Yes,2.6,2,4.0,2,5.6,7.8,4.1,6.0,7.6,24.3,Budget Constraints
+YA0730,20,Female,Undergraduate Student,With Parents / Family,6601.0,5,2,Occasionally,4.1,4,2.0,4,6.6,9.3,4.5,6.0,9.7,21.2,Lack of Time / Academic Load
+YA0731,20,Male,Undergraduate Student,Living Independently,1688.0,4,3,Yes,2.9,1,4.0,2,4.8,10.5,1.7,5.8,6.9,28.6,Lack of Time / Academic Load
+YA0732,24,Male,Working Professional,With Parents / Family,6398.0,6,0,No,2.6,4,2.0,2,5.4,8.6,4.4,7.8,7.0,18.6,Lack of Time / Academic Load
+YA0733,21,Female,Postgraduate Student,Hostel / Dormitory,4808.0,0,2,Yes,1.6,1,4.0,2,5.2,7.8,0.0,7.1,5.9,20.9,Lack of Time / Academic Load
+YA0734,21,Male,Postgraduate Student,Shared Apartment,5450.0,5,4,No,1.8,1,3.0,4,5.8,7.1,2.0,6.4,9.8,23.9,Budget Constraints
+YA0735,20,Non-binary / Other,Undergraduate Student,Shared Apartment,3224.0,4,2,Yes,2.3,0,2.0,3,6.2,8.7,4.5,1.5,7.3,25.3,Lack of Cooking Skills / Equipment
+YA0736,22,Male,Working Professional,Hostel / Dormitory,10826.0,0,3,Occasionally,3.2,2,3.0,4,7.4,6.0,1.4,5.5,8.1,24.1,Lack of Cooking Skills / Equipment
+YA0737,21,Female,Undergraduate Student,Shared Apartment,4799.0,2,3,Yes,2.3,0,3.0,3,4.4,8.1,3.1,7.3,6.7,22.7,Lack of Cooking Skills / Equipment
+YA0738,22,Male,Working Professional,With Parents / Family,9062.0,6,1,Occasionally,3.3,4,1.0,4,6.5,5.0,4.1,6.6,7.7,18.5,Lack of Time / Academic Load
+YA0739,21,Male,Undergraduate Student,Hostel / Dormitory,5092.0,0,4,Occasionally,2.3,1,3.0,5,5.1,10.6,1.8,3.8,8.6,22.2,Lack of Time / Academic Load
+YA0740,19,Female,Undergraduate Student,With Parents / Family,3541.0,5,0,Yes,1.7,2,5.0,3,3.5,10.3,4.4,7.7,6.7,19.0,Budget Constraints
+YA0741,22,Female,Postgraduate Student,Shared Apartment,5542.0,4,2,Yes,1.9,2,3.0,4,3.7,12.7,0.1,5.3,8.5,24.7,Lack of Time / Academic Load
+YA0742,19,Non-binary / Other,Undergraduate Student,Living Independently,4283.0,3,1,Yes,3.0,2,1.0,2,6.6,8.7,5.5,3.2,8.1,16.2,Budget Constraints
+YA0743,26,Male,Working Professional,Hostel / Dormitory,5442.0,1,4,No,3.5,1,4.0,4,4.6,6.7,1.0,8.4,7.7,24.5,Lack of Time / Academic Load
+YA0744,23,Male,Postgraduate Student,Hostel / Dormitory,2468.0,0,3,No,3.4,1,4.0,2,4.5,8.5,3.3,6.4,7.6,24.8,Lack of Cooking Skills / Equipment
+YA0745,18,Female,Undergraduate Student,Shared Apartment,3494.0,3,4,No,2.2,2,2.0,5,6.1,5.3,3.8,6.9,6.6,23.4,Lack of Time / Academic Load
+YA0746,25,Female,Working Professional,Shared Apartment,8838.0,5,2,Yes,2.8,2,,3,4.2,9.2,2.1,3.3,8.6,24.2,Food Delivery Apps Accessibility
+YA0747,18,Male,Undergraduate Student,Shared Apartment,2683.0,3,3,Yes,1.9,1,3.0,2,5.0,8.9,2.6,5.9,8.1,24.5,None (Satisfied with Diet)
+YA0748,21,Male,Postgraduate Student,With Parents / Family,3323.0,7,3,No,2.3,4,2.0,3,6.1,6.4,0.0,8.5,8.5,18.6,Lack of Time / Academic Load
+YA0749,25,Male,Working Professional,Shared Apartment,4294.0,3,4,Yes,2.7,0,3.0,4,5.4,9.7,0.0,8.2,3.4,24.2,Lack of Time / Academic Load
+YA0750,22,Female,Postgraduate Student,Shared Apartment,4025.0,4,3,Yes,3.2,1,3.0,3,4.1,7.0,1.6,6.2,3.9,24.4,Food Delivery Apps Accessibility
+YA0751,19,MALE,Undergraduate Student,Shared Apartment,4007.0,3,2,Occasionally,2.4,1,4.0,2,5.5,9.4,0.0,7.2,5.9,26.8,Budget Constraints
+YA0752,25,Male,Freelancer / Job Seeker,Shared Apartment,6043.0,5,1,Yes,2.8,1,2.0,3,7.2,4.1,2.6,6.1,8.4,25.7,Lack of Cooking Skills / Equipment
+YA0753,23,Male,Postgraduate Student,With Parents / Family,5128.0,7,1,Yes,2.5,3,3.0,4,5.0,6.5,4.2,6.0,6.9,23.6,Lack of Time / Academic Load
+YA0754,21,Male,Undergraduate Student,With Parents / Family,4864.0,6,1,Yes,2.9,4,2.0,3,5.1,5.6,0.0,5.2,8.1,18.0,Lack of Cooking Skills / Equipment
+YA0755,21,Male,Undergraduate Student,Shared Apartment,4577.0,3,2,Occasionally,3.0,1,3.0,3,5.2,8.2,,7.7,7.1,18.9,Food Delivery Apps Accessibility
+YA0756,22,Female,Working Professional,With Parents / Family,6743.0,5,1,Yes,2.9,3,5.0,3,3.9,10.5,0.0,7.9,4.1,27.1,Lack of Time / Academic Load
+YA0757,23,Male,Postgraduate Student,Hostel / Dormitory,3475.0,0,3,Occasionally,2.4,0,4.0,3,4.4,8.1,0.2,8.8,5.8,21.5,Budget Constraints
+YA0758,22,Female,Postgraduate Student,With Parents / Family,6235.0,5,1,Yes,2.7,3,,3,5.8,9.7,1.4,7.9,4.7,24.0,Budget Constraints
+YA0759,25,male,Working Professional,With Parents / Family,4538.0,7,1,Occasionally,3.1,4,3.0,4,5.0,8.0,1.6,7.2,10.0,21.4,Irregular Work / Study Hours
+YA0760,25,Female,Working Professional,With Parents / Family,9952.0,6,0,Yes,2.7,3,3.0,4,6.0,8.8,1.3,7.4,7.2,25.1,Food Delivery Apps Accessibility
+YA0761,18,Female,Undergraduate Student,With Parents / Family,4023.0,5,1,No,2.1,5,,4,6.6,7.6,0.0,5.9,6.7,22.7,Irregular Work / Study Hours
+YA0762,18,Female,Undergraduate Student,Hostel / Dormitory,4727.0,0,2,No,2.5,1,3.0,5,3.8,10.1,2.5,8.0,9.4,23.7,Budget Constraints
+YA0763,21,Female,Undergraduate Student,With Parents / Family,4013.0,7,0,No,2.9,3,3.0,4,3.9,8.6,5.2,6.8,10.0,21.9,Lack of Time / Academic Load
+YA0764,23,Male,Working Professional,Shared Apartment,3122.0,5,3,Occasionally,1.7,2,2.0,3,6.3,5.0,4.4,7.0,6.3,26.2,None (Satisfied with Diet)
+YA0765,19,Male,Undergraduate Student,Hostel / Dormitory,2365.0,0,5,Yes,2.4,1,2.0,4,3.5,7.6,4.2,3.3,6.3,27.1,Lack of Cooking Skills / Equipment
+YA0766,23,Female,Postgraduate Student,Hostel / Dormitory,5029.0,0,5,Yes,3.3,2,5.0,4,5.0,10.7,4.5,8.5,4.9,24.9,Food Delivery Apps Accessibility
+YA0767,25,Non-binary / Other,Working Professional,Living Independently,9430.0,5,1,No,3.3,2,3.0,3,6.2,6.9,,6.4,10.0,20.3,Budget Constraints
+YA0768,25,Female,Working Professional,Living Independently,8214.0,3,1,Yes,2.3,0,3.0,4,4.9,10.3,2.1,6.7,8.4,25.6,Food Delivery Apps Accessibility
+YA0769,19,Female,Undergraduate Student,Shared Apartment,5396.0,3,5,Yes,2.8,0,4.0,5,5.1,12.0,1.6,6.6,6.0,27.9,Lack of Cooking Skills / Equipment
+YA0770,23,Female,Working Professional,With Parents / Family,7079.0,7,0,Yes,3.1,2,2.0,4,5.2,4.3,3.4,6.2,6.5,19.3,Food Delivery Apps Accessibility
+YA0771,21,Male,Undergraduate Student,Shared Apartment,3502.0,2,4,No,3.1,2,1.0,4,7.7,7.6,0.1,4.6,4.8,23.6,Budget Constraints
+YA0772,26,Male,Working Professional,Living Independently,9829.0,2,2,Occasionally,2.0,1,4.0,4,4.3,10.7,0.0,8.1,6.2,18.6,Lack of Cooking Skills / Equipment
+YA0773,21,Female,Undergraduate Student,Shared Apartment,3802.0,3,1,No,3.4,1,3.0,3,5.2,11.6,2.6,5.6,8.4,24.5,Budget Constraints
+YA0774,21,Female,Undergraduate Student,Hostel / Dormitory,3959.0,0,2,Yes,2.3,3,4.0,4,5.2,8.4,1.1,7.2,9.3,23.3,None (Satisfied with Diet)
+YA0775,23,Male,Working Professional,Shared Apartment,7798.0,2,4,No,2.8,0,1.0,3,7.3,8.2,2.2,4.8,10.0,19.0,Lack of Cooking Skills / Equipment
+YA0776,19,Female,Undergraduate Student,With Parents / Family,2805.0,7,0,Yes,3.0,2,4.0,4,5.7,6.2,4.2,6.5,8.0,23.6,Lack of Time / Academic Load
+YA0777,18,Male,Undergraduate Student,Shared Apartment,3984.0,1,2,No,3.4,1,2.0,3,7.6,5.4,2.9,5.2,8.9,27.3,Lack of Cooking Skills / Equipment
+YA0778,26,Female,Working Professional, Shared Apartment ,9882.0,1,1,Occasionally,2.6,1,4.0,3,4.0,9.9,0.0,7.5,6.8,20.3,Lack of Time / Academic Load
+YA0779,24,Male,Working Professional,Hostel / Dormitory,16177.0,0,6,Yes,1.6,0,4.0,5,6.3,9.1,0.5,7.3,4.8,24.7,Budget Constraints
+YA0780,24,Male,Postgraduate Student,With Parents / Family,5101.0,7,1,Yes,3.4,4,3.0,2,6.3,6.1,3.6,4.6,6.6,20.2,Lack of Time / Academic Load
+YA0781,22,Female,Postgraduate Student,Hostel / Dormitory,6285.0,0,5,Occasionally,2.0,2,3.0,5,8.0,3.7,1.9,5.6,7.3,22.9,Budget Constraints
+YA0782,21,Male,Postgraduate Student,Shared Apartment,8499.0,2,2,Yes,2.1,3,2.0,3,6.1,8.8,0.0,5.2,4.1,25.8,Lack of Time / Academic Load
+YA0783,20,Female,Undergraduate Student,Living Independently,2656.0,1,1,No,3.2,1,2.0,3,7.5,3.2,3.4,4.0,8.5,25.8,Lack of Time / Academic Load
+YA0784,20,Female,Undergraduate Student,Hostel / Dormitory,3447.0,0,6,Yes,2.0,0,4.0,4,4.6,12.5,1.6,6.9,4.4,24.8,Budget Constraints
+YA0785,19,Female,Undergraduate Student, Hostel / Dormitory ,2824.0,0,5,Occasionally,2.4,1,3.0,4,5.8,8.9,2.5,3.8,7.9,22.4,Lack of Cooking Skills / Equipment
+YA0786,23,Male,Working Professional,With Parents / Family,4164.0,6,0,No,1.7,4,3.0,3,6.5,8.0,3.9,5.3,9.2,23.4,Lack of Time / Academic Load
+YA0787,23,Male,Postgraduate Student,With Parents / Family,4514.0,5,1,Yes,2.7,4,4.0,3,5.3,9.4,4.5,6.1,5.9,21.4,Budget Constraints
+YA0788,18,Male,Undergraduate Student,Shared Apartment,4760.0,3,3,Yes,4.2,3,3.0,4,7.0,10.1,4.0,3.9,7.1,16.9,Budget Constraints
+YA0789,23,Non-binary / Other,Postgraduate Student,Living Independently,3244.0,5,1,Yes,3.0,1,5.0,3,4.3,7.8,0.0,7.4,5.6,25.8,Budget Constraints
+YA0790,25,Female,Freelancer / Job Seeker,Hostel / Dormitory,4743.0,0,5,No,3.4,2,1.0,4,9.3,3.0,6.1,2.4,10.0,30.9,Lack of Time / Academic Load
+YA0791,18,Female,Undergraduate Student,Shared Apartment,2831.0,2,1,Occasionally,3.8,1,4.0,3,4.3,12.4,5.8,7.5,7.6,22.2,Lack of Time / Academic Load
+YA0792,21,Female,Postgraduate Student,Shared Apartment,,2,1,Occasionally,3.0,1,4.0,4,3.5,10.8,1.4,8.1,8.5,26.3,Budget Constraints
+YA0793,24,Female,Postgraduate Student,With Parents / Family,6177.0,6,1,Occasionally,2.4,4,3.0,4,3.5,11.2,2.2,8.8,7.1,21.7,Lack of Time / Academic Load
+YA0794,23,Female,Postgraduate Student,Hostel / Dormitory,7190.0,0,5,Yes,3.3,1,5.0,5,3.5,11.3,3.4,8.3,3.7,28.1,Budget Constraints
+YA0795,19,Male,Undergraduate Student,With Parents / Family,4741.0,6,2,Occasionally,2.8,5,3.0,4,3.5,10.5,2.8,6.9,8.2,21.0,Lack of Time / Academic Load
+YA0796,24,Female,Working Professional,With Parents / Family,8874.0,5,0,Yes,3.3,2,3.0,2,3.8,8.0,3.5,10.0,6.8,16.2,Lack of Time / Academic Load
+YA0797,22,Male,Freelancer / Job Seeker,Shared Apartment,4415.0,1,2,No,2.6,1,3.0,4,6.9,6.0,2.5,7.1,7.7,21.5,Budget Constraints
+YA0798,21,Female,Postgraduate Student,Hostel / Dormitory,4070.0,0,3,Yes,3.1,1,2.0,3,8.4,8.3,2.6,6.4,5.8,27.3,Budget Constraints
+YA0799,24,Female,Postgraduate Student,With Parents / Family,6494.0,6,2,No,3.2,3,3.0,2,5.0,7.9,1.9,3.3,7.0,18.0,Lack of Time / Academic Load
+YA0800,24,Female,Freelancer / Job Seeker,Shared Apartment,2606.0,1,3,Occasionally,2.4,3,2.0,3,5.3,4.7,4.5,5.5,6.0,19.9,Lack of Time / Academic Load
+YA0801,23,Male,Working Professional,Shared Apartment,12342.0,2,2,Yes,2.3,3,4.0,4,6.5,6.1,0.0,10.0,6.3,28.7,Food Delivery Apps Accessibility
+YA0802,19,Male,Undergraduate Student,Hostel / Dormitory,2820.0,0,4,Yes,2.3,2,5.0,4,5.9,10.5,0.5,7.4,7.9,16.2,Lack of Cooking Skills / Equipment
+YA0803,23,male,Postgraduate Student,With Parents / Family,5067.0,6,2,No,2.1,4,2.0,3,6.7,7.7,0.0,4.3,8.8,29.4,Lack of Time / Academic Load
+YA0804,24,Male,Postgraduate Student,Shared Apartment,6864.0,2,3,Yes,2.0,3,5.0,3,6.0,6.6,1.1,5.7,7.3,21.6,Budget Constraints
+YA0805,21,Male,Undergraduate Student, With Parents / Family ,3861.0,6,0,No,3.6,4,3.0,3,7.9,6.3,2.7,4.6,9.6,19.9,Budget Constraints
+YA0806,25,Female,Working Professional,Shared Apartment,8781.0,3,5,Yes,2.1,1,5.0,5,3.9,10.2,0.2,9.3,3.0,30.3,Lack of Time / Academic Load
+YA0807,25,Female,Freelancer / Job Seeker,With Parents / Family,5545.0,6,0,Occasionally,2.6,2,1.0,3,7.0,8.1,4.9,2.2,10.0,16.9,Lack of Time / Academic Load
+YA0808,20,Male,Freelancer / Job Seeker,With Parents / Family,3995.0,5,1,Yes,3.0,3,3.0,5,3.9,8.3,3.6,5.0,8.5,23.1,Lack of Time / Academic Load
+YA0809,24,Male,Postgraduate Student,With Parents / Family,5120.0,7,2,Yes,4.0,3,6.0,4,3.8,8.6,5.0,9.5,7.0,26.1,Budget Constraints
+YA0810,21,Male,Undergraduate Student,With Parents / Family,5517.0,6,2,Yes,0.8,3,3.0,3,5.5,5.7,4.4,4.4,7.1,21.7,Lack of Cooking Skills / Equipment
+YA0811,20,Female,Freelancer / Job Seeker,Hostel / Dormitory,4119.0,0,3,No,2.8,1,3.0,3,6.0,10.1,4.0,7.8,8.6,16.5,Lack of Time / Academic Load
+YA0812,24,Female,Working Professional,With Parents / Family,8240.0,5,1,Yes,2.4,3,6.0,1,3.5,5.1,1.7,6.5,3.0,22.9,Lack of Cooking Skills / Equipment
+YA0813,21,Female,Undergraduate Student,Hostel / Dormitory,3470.0,1,4,Occasionally,3.5,0,3.0,4,3.5,10.8,6.9,4.4,8.3,22.9,Lack of Time / Academic Load
+YA0814,21,Male,Freelancer / Job Seeker,With Parents / Family,6419.0,6,1,Yes,2.8,3,4.0,4,4.0,8.6,3.1,8.9,2.7,23.6,Lack of Time / Academic Load
+YA0815,22,Non-binary / Other,Working Professional,Shared Apartment,8490.0,2,1,Occasionally,2.5,1,2.0,2,7.5,8.1,6.1,4.1,10.0,24.1,Food Delivery Apps Accessibility
+YA0816,23,Female,Postgraduate Student,Hostel / Dormitory,2652.0,1,4,Yes,2.5,0,6.0,5,3.5,8.3,2.5,7.7,4.2,28.0,Irregular Work / Study Hours
+YA0817,22,Male,Postgraduate Student,Hostel / Dormitory,5261.0,0,3,Occasionally,3.1,0,2.0,3,8.1,8.8,1.7,2.5,8.9,19.9,Budget Constraints
+YA0818,20,Female,Undergraduate Student,Shared Apartment,3317.0,1,1,Yes,2.0,0,2.0,3,5.4,8.9,2.7,5.6,6.4,24.7,Lack of Time / Academic Load
+YA0819,20,Male,Undergraduate Student,Hostel / Dormitory,1862.0,0,4,No,3.8,0,3.0,4,6.5,7.7,4.4,6.4,7.8,20.6,Lack of Time / Academic Load
+YA0820,18,Female,Undergraduate Student,Shared Apartment,4552.0,3,3,Occasionally,3.1,2,5.0,2,4.9,8.9,4.1,4.2,7.6,24.0,Lack of Time / Academic Load
+YA0821,24,Male,Working Professional,Shared Apartment,11560.0,2,3,Occasionally,2.4,0,5.0,2,5.3,5.1,0.7,5.7,6.4,20.4,Irregular Work / Study Hours
+YA0822,18,Female,Undergraduate Student,Hostel / Dormitory,5110.0,2,3,Occasionally,1.9,2,3.0,2,6.6,5.4,1.6,3.9,9.1,26.1,Lack of Time / Academic Load
+YA0823,18,Female,Undergraduate Student,With Parents / Family,4533.0,5,1,Yes,3.1,4,3.0,2,3.5,8.8,3.2,5.6,7.8,21.6,Budget Constraints
+YA0824,18,Female,Undergraduate Student,Hostel / Dormitory,4812.0,0,4,No,3.1,1,3.0,5,4.9,8.4,1.5,6.8,6.9,23.5,Budget Constraints
+YA0825,22,Female,Postgraduate Student,Hostel / Dormitory,4915.0,0,6,No,2.1,1,3.0,4,6.5,11.0,0.7,6.7,6.8,21.6,Lack of Cooking Skills / Equipment
+YA0826,25,Male,Working Professional,With Parents / Family,9483.0,5,1,Yes,2.0,3,3.0,4,5.6,5.5,0.6,8.1,6.4,22.9,Lack of Time / Academic Load
+YA0827,19,Male,Undergraduate Student,Hostel / Dormitory,3981.0,0,3,Yes,2.4,2,3.0,2,5.0,5.9,2.4,3.4,8.8,24.5,Lack of Time / Academic Load
+YA0828,21,Male,Undergraduate Student,Hostel / Dormitory,6477.0,0,4,Occasionally,1.6,2,6.0,4,3.5,11.1,3.9,7.6,6.8,29.1,Lack of Cooking Skills / Equipment
+YA0829,25,Male,Working Professional,Shared Apartment,7598.0,1,2,No,3.0,0,6.0,5,3.5,5.2,5.7,9.2,6.2,27.5,Lack of Cooking Skills / Equipment
+YA0830,21,Female,Postgraduate Student,With Parents / Family,5377.0,7,1,No,3.3,3,4.0,3,8.0,7.4,2.4,3.2,10.0,20.9,Lack of Time / Academic Load
+YA0831,20,Male,Undergraduate Student,Shared Apartment,2997.0,3,3,No,2.7,0,2.0,4,4.9,11.5,5.2,6.7,9.5,29.3,Lack of Time / Academic Load
+YA0832,21,Non-binary / Other,Postgraduate Student,Shared Apartment,5844.0,1,1,Yes,3.0,1,4.0,3,3.9,6.7,3.0,8.5,5.6,28.6,Budget Constraints
+YA0833,20,Female,Undergraduate Student,Shared Apartment,4371.0,2,1,Yes,1.3,1,5.0,4,5.0,8.6,0.0,7.7,6.6,26.5,Lack of Time / Academic Load
+YA0834,21,Female,Undergraduate Student,Hostel / Dormitory,4179.0,1,2,Yes,2.8,3,4.0,2,3.9,9.0,1.4,7.9,4.6,21.7,Lack of Cooking Skills / Equipment
+YA0835,21,Male,Postgraduate Student,Hostel / Dormitory,4210.0,0,5,Occasionally,2.7,1,4.0,5,3.9,12.3,4.1,8.7,7.8,27.6,Lack of Time / Academic Load
+YA0836,20,Female,Undergraduate Student,With Parents / Family,6431.0,7,3,Yes,3.4,4,4.0,2,5.5,6.2,6.5,3.7,8.2,22.7,Lack of Cooking Skills / Equipment
+YA0837,23,Female,Working Professional,Shared Apartment,8834.0,2,4,Occasionally,3.2,0,5.0,3,4.2,8.4,4.4,5.6,8.7,22.3,Irregular Work / Study Hours
+YA0838,20,Male,Undergraduate Student,Hostel / Dormitory,3700.0,1,5,Yes,3.7,1,2.0,3,5.6,9.9,8.9,4.7,7.4,26.2,Budget Constraints
+YA0839,21,female,Postgraduate Student,Hostel / Dormitory,6041.0,0,3,Occasionally,2.5,1,3.0,4,6.2,5.9,3.3,6.3,9.4,23.1,Food Delivery Apps Accessibility
+YA0840,22,Female,Postgraduate Student,Hostel / Dormitory,5399.0,0,2,No,2.1,0,5.0,4,3.5,13.8,3.2,7.0,6.5,19.3,Lack of Time / Academic Load
+YA0841,20,Male,Undergraduate Student,Living Independently,3755.0,5,3,Yes,3.3,0,3.0,2,5.0,7.9,3.7,4.7,8.8,24.8,Budget Constraints
+YA0842,23,Male,Postgraduate Student,Hostel / Dormitory,6128.0,2,3,Yes,1.2,0,5.0,3,5.2,11.1,1.9,5.5,5.0,20.7,Lack of Time / Academic Load
+YA0843,20,Male,Undergraduate Student,Shared Apartment,5898.0,5,3,Yes,1.8,1,4.0,3,4.8,9.0,0.8,8.1,2.8,29.5,Budget Constraints
+YA0844,22,Male,Freelancer / Job Seeker,Shared Apartment,3743.0,2,3,Yes,2.3,2,5.0,3,3.9,6.9,0.0,7.7,4.7,21.5,Budget Constraints
+YA0845,20,Male,Undergraduate Student,Living Independently,3110.0,2,2,Occasionally,3.8,1,4.0,4,4.8,10.6,3.1,5.7,10.0,22.8,Budget Constraints
+YA0846,19,Male,Undergraduate Student, Hostel / Dormitory ,6036.0,1,4,Yes,2.8,2,0.0,5,6.8,9.2,7.7,4.8,7.6,24.5,Lack of Time / Academic Load
+YA0847,21,Male,Undergraduate Student,Hostel / Dormitory,5953.0,0,2,No,2.3,1,2.0,4,6.9,5.9,0.6,4.2,7.7,23.4,Lack of Time / Academic Load
+YA0848,25,Male,Freelancer / Job Seeker,With Parents / Family,3875.0,7,0,Yes,2.5,2,5.0,3,4.9,3.0,1.9,7.0,6.3,26.1,Food Delivery Apps Accessibility
+YA0849,22,Female,Postgraduate Student,Shared Apartment,6139.0,2,2,No,1.9,3,4.0,5,6.5,7.8,0.9,8.5,8.0,22.6,Lack of Time / Academic Load
+YA0850,22,Female,Postgraduate Student,Hostel / Dormitory,7616.0,0,3,No,1.8,1,2.0,2,8.0,3.0,0.4,6.0,8.2,25.2,Irregular Work / Study Hours
+YA0839,21,female,Postgraduate Student,Hostel / Dormitory,6041.0,0,3,Occasionally,2.5,1,3.0,4,6.2,5.9,3.3,6.3,9.4,23.1,Food Delivery Apps Accessibility
+YA0319,21,Male,Undergraduate Student,With Parents / Family,2521.0,6,2,Yes,2.4,3,3.0,3,5.3,3.8,0.0,5.7,6.3,16.7,Lack of Time / Academic Load
+YA0100,21,Female,Undergraduate Student,Hostel / Dormitory,4653.0,0,4,Occasionally,1.9,3,4.0,5,5.7,6.9,1.5,7.8,4.5,23.9,Budget Constraints
+YA0374,22,Female,Postgraduate Student,Hostel / Dormitory,5902.0,0,4,No,4.2,0,3.0,3,5.7,11.0,5.0,2.4,10.0,20.6,Lack of Cooking Skills / Equipment
+YA0165,18,Female,Undergraduate Student,Hostel / Dormitory,5198.0,0,5,No,1.2,1,4.0,5,3.5,14.1,2.5,7.3,6.8,24.5,Food Delivery Apps Accessibility
+YA0141,20,Female,Freelancer / Job Seeker,Shared Apartment,3860.0,3,3,Yes,2.3,1,3.0,4,5.4,6.2,3.8,6.2,6.2,21.1,Budget Constraints
+YA0223,19,Male,Undergraduate Student,Hostel / Dormitory,3974.0,0,6,Yes,2.1,1,1.0,5,4.6,9.4,0.8,3.7,6.3,22.4,Lack of Cooking Skills / Equipment
+YA0555,23,Female,Working Professional,With Parents / Family,8578.0,7,0,Occasionally,,5,2.0,3,5.4,7.4,1.6,7.7,7.2,19.4,Budget Constraints
+YA0127,23,Female,Working Professional,Shared Apartment,11793.0,1,4,Yes,3.1,0,2.0,5,5.9,4.8,3.7,7.0,5.7,21.8,Lack of Time / Academic Load
+YA0610,22, Female ,Postgraduate Student,With Parents / Family,4901.0,6,0,Yes,1.9,2,3.0,4,3.5,11.2,0.2,8.2,6.4,27.7,Lack of Cooking Skills / Equipment
+YA0477,21,male,Undergraduate Student,Hostel / Dormitory,3359.0,0,3,Yes,1.8,1,1.0,1,6.8,8.5,1.6,3.3,8.1,25.2,Lack of Time / Academic Load
+YA0099,21,Female,Undergraduate Student,Hostel / Dormitory,2157.0,1,3,Yes,3.9,1,3.0,3,3.5,13.1,2.9,5.4,5.9,25.6,Irregular Work / Study Hours
+YA0116,25,Male,Working Professional,Shared Apartment,6547.0,1,3,Occasionally,3.9,1,2.0,2,7.9,7.7,,1.5,9.9,25.2,Lack of Time / Academic Load
+YA0562,18,Male,Undergraduate Student, Shared Apartment ,,3,3,Yes,2.2,1,4.0,3,5.7,12.0,1.4,7.1,7.0,22.6,Lack of Time / Academic Load
